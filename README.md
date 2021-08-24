@@ -4,7 +4,7 @@ Sebagai bagian proses skrining awal bagi umat yang hendak ikuti kegiatan misa ta
 
 > "Marilah kita sebagai putra-putri Allah membangun keluarga Kerajaan Allah yang mencintai sesama seperti diri sendiri, belajar memahami, menerima dan mencintai situasi pandemi COVID-19 serta melihat, merasakan, mengalami kasih dan kemuliaan Tuhan, sang Penebus. Jaga kebersihan dan kesehatan lahir-batin, diam di rumah dan saling mendoakan dalam perlindungan Bunda Maria dan St. Yusup #SemakinMengasihi #SemakinTerlibat #SemakinMenjadiBerkat."
 >
-> (Press Release Surat Keputusan Dan Penegasan Pemberian Ijin Memulai Kembali Kegiatan Gerejawi Offline, No. Humas KAJ/ARS-010/2308/2021, 23 Agustus 2021)
+> *Press Release Surat Keputusan Dan Penegasan Pemberian Ijin Memulai Kembali Kegiatan Gerejawi Offline, No. Humas KAJ/ARS-010/2308/2021, 23 Agustus 2021*
 
 ## Petunjuk Umum
 
