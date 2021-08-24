@@ -21,7 +21,8 @@
 
 ### Daftar Vaksinasi Umat Di BIDUK
 
-Umat dapat cek apakah lapor sertifikat vaksinasinya sudah selesai <a href="https://docs.google.com/spreadsheets/d/1FleOXQ0_vi21NcYEEKXpZLisTHtACwU6SDgHfqY0MiY/edit?usp=sharing" target="_blank" alt="">di sini</a>.
+* Umat dapat cek apakah lapor sertifikat vaksinasinya sudah selesai <a href="https://docs.google.com/spreadsheets/d/1FleOXQ0_vi21NcYEEKXpZLisTHtACwU6SDgHfqY0MiY/edit?usp=sharing" target="_blank" alt="">di sini</a>.
+* Daftar ini diperbarui berkala setiap pk 21:00.
 
 ### Alur Pendaftaran Misa Tatap Muka
 
@@ -29,7 +30,7 @@ Umat dapat cek apakah lapor sertifikat vaksinasinya sudah selesai <a href="https
 2. Bagi umat yang data vaksinasinya belum tersedia di BIDUK dan telah menerima vaksinasi lengkap, silakan mengisi salah satu formulir berikut:
     * punya akun Google: <a href="https://github.com/sathora-belarasa/vaksinasi-biduk/blob/main/README.md#pelapor-dengan-akun-google" alt="pemilik akun Google">Formulir Model A</a>;
     * tidak punya akun Google: <a href="https://github.com/sathora-belarasa/vaksinasi-biduk/blob/main/README.md#pelapor-tanpa-akun-google" alt="tidak punya akun Google">Formulir Model B</a>.
-3. Data vaksinasi umat akan diproses maksimal 3x 24 jam setelah formulir diterima. Silakan cek <a href="https://github.com/sathora-belarasa/vaksinasi-biduk/blob/main/README.md#daftar-vaksinasi-umat-di-biduk" alt="Daftar vaksinasi umat di BIDUK">daftar ini</a> yang diperbarui berkala. 
+3. Data vaksinasi umat akan diproses maksimal 3x 24 jam setelah formulir diterima. Silakan cek <a href="https://github.com/sathora-belarasa/vaksinasi-biduk/blob/main/README.md#daftar-vaksinasi-umat-di-biduk" alt="Daftar vaksinasi umat di BIDUK">daftar ini</a>. 
 4. Setelah nama umat tampak dalam daftar, silakan umat mendaftarkan diri misa tatap muka melalui Web Bela Rasa. 
 5. Umat bisa cek menu Tiket Misa Saya (dalam Web Bela Rasa) untuk melihat status pendaftaran misa tatap muka yang telah dipilih.
 6. TABP akan melakukan verifikasi manual data vaksinasi umat pendaftar.
