@@ -23,8 +23,8 @@
 
 1. Cek <a href="">di sini</a> apakah data vaksinasi sudah tersedia di BIDUK.
 2. Bagi umat yang data vaksinasinya belum tersedia di BIDUK dan telah menerima vaksinasi lengkap, silakan mengisi salah satu formulir berikut:
-    * punya akun Google: <a href="">Formulir Model A</a>;
-    * tidak punya akun Google: <a href="">Formulir Model B</a>.
+    * punya akun Google: <a href="https://github.com/sathora-belarasa/vaksinasi-biduk/blob/main/README.md#" alt="pemilik akun Google">Formulir Model A</a>;
+    * tidak punya akun Google: <a href="https://github.com/sathora-belarasa/vaksinasi-biduk/blob/main/README.md#" alt="tidak punya akun Google">Formulir Model B</a>.
 3. Data vaksinasi umat akan diproses maksimal 3x 24 jam setelah formulir diterima. Silakan cek <a href="">daftar ini</a> yang diperbarui berkala. 
 4. Setelah nama umat tampak dalam daftar, silakan umat mendaftarkan diri misa tatap muka melalui Web Bela Rasa. 
 5. Umat bisa cek menu Tiket Misa Saya (dalam Web Bela Rasa) untuk melihat status pendaftaran misa tatap muka yang telah dipilih.
@@ -64,17 +64,17 @@ Data yang diperlukan:
 
 ### Pelapor dengan akun Google
 
-* Umat yang memiliki akun Google dihimbau mengisi formulir model A (<a href="" target="_blank" alt="Formulir model A">kunjungi di sini</a>).
-* Formulir model A menyediakan isian untuk unggah (upload) foto sertifikat vaksinasi kedua.
+* Umat yang memiliki akun Google dihimbau mengisi formulir model A (<a href="https://tinyurl.com/sathorabidukvaksina" target="_blank" alt="Formulir bagi pemilik akun Google">kunjungi di sini</a>).
+* Formulir model A menyediakan isian untuk unggah (upload) foto sertifikat vaksinasi kedua. Maksimum berukuran 1 MB.
 * Umat cek daftar ini secara berkala sebagai konfirmasi data vaksinasinya sudah disimpan di BIDUK.
 
 ### Pelapor tanpa akun Google
 
-* Umat yang *tidak* memiliki akun Google mengisi formulir model B (<a href="" target="_blank" alt="Formulir model B">kunjungi di sini</a>).
+* Umat yang *tidak* memiliki akun Google mengisi formulir model B (<a href="https://tinyurl.com/sathorabidukvaksinb" target="_blank" alt="Formulir selain pemilik akun Google">kunjungi di sini</a>).
 * Setelah selesai mengirimkan formulir model ini, umat mengirimkan foto sertifikat vaksinasi kedua melalui email kepada (lihat <a href="https://github.com/sathora-belarasa/vaksinasi-biduk/blob/main/README.md#narahubung" alt="Narahubung">Narahubung</a> di bawah).
 * Format penulisan email:
   * Satu email untuk satu orang pelapor. Dilarang penggabungan.
-  * Judul email ditulis 16 angka NIK pelapor. Contoh: 1234567890123456
+  * Judul email ditulis 16 angka NIK pelapor (sama dengan yang tertulis di formulir). Contoh: 1234567890123456
 
 ## Narahubung
 
