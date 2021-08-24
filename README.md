@@ -72,6 +72,7 @@ Data yang diperlukan:
 * Umat yang memiliki akun Google dihimbau mengisi formulir model A (<a href="https://tinyurl.com/sathorabidukvaksina" target="_blank" alt="Formulir bagi pemilik akun Google">kunjungi di sini</a>).
 * Formulir model A menyediakan isian untuk unggah (upload) foto sertifikat vaksinasi kedua. Maksimum berukuran 1 MB.
 * Umat cek daftar ini secara berkala sebagai konfirmasi data vaksinasinya sudah disimpan di BIDUK.
+* Kami rekomendasikan cara ini karena akan sangat meringankan beban kerja.
 
 ### Pelapor tanpa akun Google
 
