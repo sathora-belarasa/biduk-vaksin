@@ -21,7 +21,7 @@
 
 ### Daftar Vaksinasi Umat Di BIDUK
 
-* Umat dapat cek apakah lapor sertifikat vaksinasinya sudah selesai <a href="https://docs.google.com/spreadsheets/d/1FleOXQ0_vi21NcYEEKXpZLisTHtACwU6SDgHfqY0MiY/edit?usp=sharing" target="_blank" alt="">di sini</a>.
+* Umat dapat cek <a href="https://docs.google.com/spreadsheets/d/1FleOXQ0_vi21NcYEEKXpZLisTHtACwU6SDgHfqY0MiY/edit?usp=sharing" target="_blank" alt="">daftar ini</a> apakah data vaksinasinya sudah tersimpan di BIDUK.
 * Daftar ini diperbarui berkala setiap pk 21:00.
 
 ### Alur Pendaftaran Misa Tatap Muka
