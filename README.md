@@ -8,15 +8,15 @@
 * Pendaftaran misa tatap muka dan pelayanan PPK melalui <a href="https://belarasa.id" target="_blank" alt="Web Bela Rasa">Web Bela Rasa</a> [https://belarasa.id]. 
 * Umat yang mengalami kesulitan lapor sertifikat vaksinasi dapat dibantu anggota keluarga, pengurus lingkungan, atau umat lainnya yang dipercaya.
 
-> "Marilah kita sebagai putra-putri Allah membangun keluarga Kerajaan Allah yang mencintai sesama seperti diri sendiri, belajar memahami, menerima dan mencintai situasi pandemi COVID-19 serta melihat, merasakan, mengalami kasih dan kemuliaan Tuhan, sang Penebus. Jaga kebersihan dan kesehatan lahir-batin, diam di rumah dan saling mendoakan dalam perlindungan Bunda Maria dan St. Yusup #SemakinMengasihi #SemakinTerlibat #SemakinMenjadiBerkat."
+> *"Marilah kita sebagai putra-putri Allah membangun keluarga Kerajaan Allah yang mencintai sesama seperti diri sendiri, belajar memahami, menerima dan mencintai situasi pandemi COVID-19 serta melihat, merasakan, mengalami kasih dan kemuliaan Tuhan, sang Penebus. Jaga kebersihan dan kesehatan lahir-batin, diam di rumah dan saling mendoakan dalam perlindungan Bunda Maria dan St. Yusup #SemakinMengasihi #SemakinTerlibat #SemakinMenjadiBerkat."*
 >
-> *Press Release Surat Keputusan Dan Penegasan Pemberian Ijin Memulai Kembali Kegiatan Gerejawi Offline, No. Humas KAJ/ARS-010/2308/2021, 23 Agustus 2021*
+> Press Release Surat Keputusan Dan Penegasan Pemberian Ijin Memulai Kembali Kegiatan Gerejawi Offline, No. Humas KAJ/ARS-010/2308/2021, 23 Agustus 2021
 
 ## Tata Cara Pendaftaran
 
 ### Jadwal Pendaftaran
 
-* Pendaftaran misa lansia, misa keluarga dibuka H-7 (hari Minggu) mulai pk 14:00.
+* Pendaftaran misa lansia, misa keluarga dibuka H-7 (hari Minggu) mulai pk 14:00; ditutup H-2 (hari Jumat) pk 18:00 atau jika kuota misa habis.
 * Pendaftaran PPK/SMK Online Sabtu & Minggu dibuka H-7 (hari Minggu) mulai pk 14:00.
 
 ### Daftar Vaksinasi Umat Di BIDUK
