@@ -1,3 +1,5 @@
+# Tata Cara Umat Sathora Daftar Misa Tatap Muka
+
 ## Pengantar
 
 * Berlaku mulai September 2021.
@@ -8,9 +10,16 @@
 
 > "Marilah kita sebagai putra-putri Allah membangun keluarga Kerajaan Allah yang mencintai sesama seperti diri sendiri, belajar memahami, menerima dan mencintai situasi pandemi COVID-19 serta melihat, merasakan, mengalami kasih dan kemuliaan Tuhan, sang Penebus. Jaga kebersihan dan kesehatan lahir-batin, diam di rumah dan saling mendoakan dalam perlindungan Bunda Maria dan St. Yusup #SemakinMengasihi #SemakinTerlibat #SemakinMenjadiBerkat."
 >
-> Press Release Surat Keputusan Dan Penegasan Pemberian Ijin Memulai Kembali Kegiatan Gerejawi Offline, No. Humas KAJ/ARS-010/2308/2021, 23 Agustus 2021*
+> *Press Release Surat Keputusan Dan Penegasan Pemberian Ijin Memulai Kembali Kegiatan Gerejawi Offline, No. Humas KAJ/ARS-010/2308/2021, 23 Agustus 2021*
 
-## Alur Pendaftaran Misa Tatap Muka
+## Tata Cara Pendaftaran
+
+### Jadwal Pendaftaran
+
+* Pendaftaran misa lansia, misa keluarga dibuka H-7 (hari Minggu) mulai pk 14:00.
+* Pendaftaran PPK/SMK Online Sabtu & Minggu dibuka H-7 (hari Minggu) mulai pk 14:00.
+
+### Alur Pendaftaran Misa Tatap Muka
 
 1. Cek <a href="">di sini</a> apakah data vaksinasi sudah tersedia di BIDUK.
 2. Bagi umat yang data vaksinasinya belum tersedia di BIDUK dan telah menerima vaksinasi lengkap, silakan mengisi salah satu formulir berikut:
@@ -23,7 +32,7 @@
 7. Umat dengan data vaksinasi lengkap di BIDUK akan menerima tiket misa tatap muka yang dikirim ke email. Bisa cek menu Tiket Misa Saya.
 8. Bawa tiket misa ke gereja.
 
-### Pilihan Hadir, PPK, dan SMK
+#### Pilihan Hadir, PPK, dan SMK
 
 Ketika umat melihat daftar nama anggota keluarga, terlihat 3 pilihan di samping kanan setiap nama.
 * Hadir berarti umat yang bersangkutan akan hadiri misa tatap muka di gereja
@@ -31,7 +40,7 @@ Ketika umat melihat daftar nama anggota keluarga, terlihat 3 pilihan di samping 
 * SMK bearti umat yang ingin menyambut SMK di rumah yang diantarkan PPK sewaktu komuni misa tatap muka.
 * Untuk memilih SMK, pilih dulu salah satu anggota keluarga yang hadiri misa di gereja sebagai PPK. Lanjut pilih anggota keluarga sebagai SMK.
 
-## Alur Pendaftaran PPK/SMK Online
+### Alur Pendaftaran PPK/SMK Online
 
 1. Tidak ada perubahan; sama dengan yang sudah pernah berlangsung. 
 2. Termasuk pelayanan Prodiakon Antar SMK.
