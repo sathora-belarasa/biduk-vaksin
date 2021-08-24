@@ -2,7 +2,7 @@
 
 ## Pengantar
 
-* Berlaku mulai September 2021.
+* Berlaku mulai misa tatap muka September 2021.
 * Umat berkesempatan hadiri misa tatap muka jika telah menerima vaksinasi lengkap (2 kali suntikan).
 * Data vaksinasi umat disimpan di BIDUK.
 * Pendaftaran misa tatap muka dan pelayanan PPK melalui <a href="">Web Bela Rasa</a> [https://belarasa.id]. 
