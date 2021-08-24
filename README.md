@@ -5,7 +5,7 @@
 * Berlaku mulai misa tatap muka September 2021.
 * Umat berkesempatan hadiri misa tatap muka jika telah menerima vaksinasi lengkap (2 kali suntikan).
 * Data vaksinasi umat disimpan di BIDUK.
-* Pendaftaran misa tatap muka dan pelayanan PPK melalui <a href="">Web Bela Rasa</a> [https://belarasa.id]. 
+* Pendaftaran misa tatap muka dan pelayanan PPK melalui <a href="https://belarasa.id" target="_blank" alt="Web Bela Rasa">Web Bela Rasa</a> [https://belarasa.id]. 
 * Umat yang mengalami kesulitan lapor sertifikat vaksinasi dapat dibantu anggota keluarga, pengurus lingkungan, atau umat lainnya yang dipercaya.
 
 > "Marilah kita sebagai putra-putri Allah membangun keluarga Kerajaan Allah yang mencintai sesama seperti diri sendiri, belajar memahami, menerima dan mencintai situasi pandemi COVID-19 serta melihat, merasakan, mengalami kasih dan kemuliaan Tuhan, sang Penebus. Jaga kebersihan dan kesehatan lahir-batin, diam di rumah dan saling mendoakan dalam perlindungan Bunda Maria dan St. Yusup #SemakinMengasihi #SemakinTerlibat #SemakinMenjadiBerkat."
