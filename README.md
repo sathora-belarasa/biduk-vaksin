@@ -7,15 +7,11 @@
 
 ## Pengantar
 
-* Berlaku mulai misa tatap muka September 2021.
-* Umat berkesempatan hadiri misa tatap muka jika telah menerima vaksinasi lengkap (2 kali suntikan).
-* Data vaksinasi umat disimpan di BIDUK.
-* Pendaftaran misa tatap muka dan pelayanan PPK melalui <a href="https://belarasa.id" target="_blank" alt="Web Bela Rasa">Web Bela Rasa</a> [https://belarasa.id]. 
-* Umat yang mengalami kesulitan lapor sertifikat vaksinasi dapat dibantu anggota keluarga, pengurus lingkungan, atau umat lainnya yang dipercaya.
-
 > *"Marilah kita sebagai putra-putri Allah membangun keluarga Kerajaan Allah yang mencintai sesama seperti diri sendiri, belajar memahami, menerima dan mencintai situasi pandemi COVID-19 serta melihat, merasakan, mengalami kasih dan kemuliaan Tuhan, sang Penebus. Jaga kebersihan dan kesehatan lahir-batin, diam di rumah dan saling mendoakan dalam perlindungan Bunda Maria dan St. Yusup #SemakinMengasihi #SemakinTerlibat #SemakinMenjadiBerkat."*
 >
-> Press Release Surat Keputusan Dan Penegasan Pemberian Ijin Memulai Kembali Kegiatan Gerejawi Offline, No. Humas KAJ/ARS-010/2308/2021, 23 Agustus 2021
+> Press Release Surat Keputusan Dan Penegasan Pemberian Ijin Memulai Kembali Kegiatan Gerejawi Offline, No. Humas KAJ/ARS-010/2308/2021, 23 Agustus 2021.
+* Panduan ini berlaku mulai September 2021.
+* Umat yang mengalami kesulitan lapor sertifikat vaksinasi dapat dibantu anggota keluarga, pengurus lingkungan, atau sesama umat lainnya yang dipercaya.
 
 ## Misa Tatap Muka
 
@@ -24,38 +20,48 @@
 * Senin, Rabu, Sabtu pk 6:00 (online)
 * Selasa, Kamis, Jumat pk 6:00 (tatap muka & online)
 * Sabtu pk 17:00 (tatap muka khusus lansia & online)
-* Minggu pk 8:30 & 11:00 (tatap muka khusus keluarga & online)
+* Minggu pk 8:30 (tatap muka keluarga & online) & 11:00 (tatap muka khusus keluarga)
 * Umat yang berkesempatan hadiri misa tatap muka bergiliran antara Wilayah 1 dan Wilayah 2.
 * Wilayah 1: Yohanes, Lucia, Elisabeth, Paulus, Stefanus, Ignatius, Timotius, Antonius Theresia 
 * Wilayah 2: Yosef, Dominikus, Petrus, Katarina, Lukas, Matius, Fransiskus, Klara, Benediktus
-* <a href="/biduk-vaksin/docs/assets/misa-2109.jpeg" target="_blank" alt="Infografik Jadwal Misa">Infografik jadwal misa September 2021</a>
-* <a href="/biduk-vaksin/docs/assets/petugas-wilayah.png" target="_blank" alt="Jadwal Petugas Wilayah">Jadwal petugas wilayah September & Oktober 2021</a>
+![Infografik Jadwal Misa September 2021](/biduk-vaksin/docs/assets/misa-2109.jpeg "Infografik Jadwal Misa September 2021")
+![Jadwal Petugas Wilayah](/biduk-vaksin/docs/assets/petugas-wilayah.png "Jadwal Petugas Wilayah")
 
-### Jadwal Pendaftaran
+### Jadwal Pendaftaran Harian
+
+* Pendaftaran misa tatap muka Selasa dibuka H-4 (hari Jumat).
+* Pendaftaran misa tatap muka Kamis, Jumat dibuka H-4/5 (hari Minggu).
+* Kuota umat, petugas, dan romo 50 orang.
+
+### Jadwal Pendaftaran Mingguan
 
 * Semua misa tatap muka mingguan (misa lansia, misa keluarga) dibuka H-7 (hari Minggu) mulai pk 14:00.
 * Ditutup H-2 (hari Jumat) pk 18:00 atau jika kuota misa habis lebih dulu.
+* Kuota umat, petugas, dan romo 200 orang.
+
+### Batasan Umur dan Vaksinasi
+
+* Misa tatap muka harian: umat berumur 18-59 tahun, sehat, dan telah divaksinasi lengkap 2 dosis.
+* Misa tatap muka lansia: umat berumur 60 tahun ke atas, sehat, beraktivitas tanpa pendamping, dan telah divaksinasi lengkap 2 dosis.
+* Misa tatap muka keluarga: umat berumur 12-59 tahun, sehat, dan telah divaksinasi lengkap 2 dosis; khusus umat berumur 12-17 tahun wajib datang bersama orang tua (keluarga).
 
 ### Alur Pendaftaran 
 
-1. Cek <a href="https://tinyurl.com/sathorabidukvaksin#daftar-vaksinasi-umat-di-biduk" alt="Daftar vaksinasi umat di BIDUK">di sini</a> apakah data vaksinasi sudah tersedia di BIDUK.
-2. Bagi umat yang data vaksinasinya belum tersedia di BIDUK dan telah menerima vaksinasi lengkap, silakan mengisi salah satu formulir berikut:
-    * punya akun Google: <a href="https://tinyurl.com/sathorabidukvaksin#pelapor-dengan-akun-google" alt="pemilik akun Google">Formulir Model A</a>;
-    * tanpa akun Google: <a href="https://tinyurl.com/sathorabidukvaksin#pelapor-tanpa-akun-google" alt="tidak punya akun Google">Formulir Model B</a>.
-3. Data vaksinasi umat akan diproses maksimal 3x 24 jam setelah formulir diterima. Silakan cek <a href="https://tinyurl.com/sathorabidukvaksin#daftar-vaksinasi-umat-di-biduk" alt="Daftar vaksinasi umat di BIDUK">daftar ini</a>. 
-4. Setelah nama umat tampak dalam daftar, silakan umat mendaftarkan diri misa tatap muka melalui Web Bela Rasa. 
-5. Umat bisa cek menu Tiket Misa Saya (dalam Web Bela Rasa) untuk melihat status pendaftaran misa tatap muka yang telah dipilih.
-6. TABP akan melakukan verifikasi manual data vaksinasi umat pendaftar.
-7. Umat dengan data vaksinasi lengkap di BIDUK akan menerima tiket misa tatap muka yang dikirim ke email. Bisa cek menu Tiket Misa Saya.
-8. Bawa tiket misa ke gereja.
+1. Cek <a href="https://docs.google.com/spreadsheets/d/1FleOXQ0_vi21NcYEEKXpZLisTHtACwU6SDgHfqY0MiY/edit?usp=sharing" target="_blank" alt="Data vaksinasi umat">di sini</a> untuk melihat apakah data vaksinasi umat sudah tersimpan di BIDUK. Siapkan Kode KK dan Nomor Anggota yang tertulis pada Kartu Keluarga Katolik.
+2. Bagi umat yang data vaksinasinya belum tersimpan di BIDUK dan telah menerima vaksinasi lengkap, silakan lapor sertifikat vaksinasi (<a href="#lapor-sertifikat-vaksinasi" lihat caranya di sini</a>).
+3. Cek berkala data vaksinasi umat (langkah ke-1) sebelum umat lanjut mendaftarkan diri atau keluarganya misa tatap muka melalui <a href="https://belarasa.id" target="_blank" alt="Web Bela Rasa">Web Bela Rasa</a>.  
+4. Untuk melihat status pendaftaran misa tatap muka yang telah dikirim, umat masuk menu *Tiket Misa Saya*.
+5. TABP akan melakukan verifikasi manual data vaksinasi umat pendaftar yang masuk. Umat dimohon sabar menunggu. Umat pastikan pendaftarannya di *Tiket Misa Saya* berstatus menunggu persetujuan.
+6. Umat dengan data vaksinasi lengkap di BIDUK akan menerima tiket misa tatap muka yang dikirim ke email. 
+7. Bawa tiket misa ke gereja untuk dipindai (scan) petugas.
 
 #### Pilihan Hadir, PPK, dan SMK
 
-Ketika umat melihat daftar nama anggota keluarga, terlihat 3 pilihan di samping kanan setiap nama.
-* Hadir berarti umat yang bersangkutan akan hadiri misa tatap muka di gereja
-* PPK berarti umat yang menghadiri misa tatap muka merangkap sebagai PPK, yang menjemput SMK waktu komuni.
-* SMK bearti umat yang ingin menyambut SMK di rumah yang diantarkan PPK sewaktu komuni misa tatap muka.
-* Untuk memilih SMK, pilih dulu salah satu anggota keluarga yang hadiri misa di gereja sebagai PPK. Lanjut pilih anggota keluarga sebagai SMK.
+Ketika umat melihat pilihan nama-nama anggota keluarga, terlihat 3 pilihan di samping kanan setiap nama.
+* *Hadir* = umat yang bersangkutan akan hadiri misa tatap muka di gereja
+* *PPK* = umat yang menghadiri misa tatap muka merangkap sebagai PPK, yang menjemput SMK waktu komuni.
+* *SMK* = umat yang ingin menyambut SMK di rumah yang diantarkan PPK sewaktu komuni misa tatap muka.
+* Untuk memilih SMK, pilih dulu salah satu anggota keluarga yang hadiri misa di gereja sebagai PPK. Kemudian pilih anggota keluarga sebagai SMK.
 
 ## PPK/SMK Online
 
@@ -65,7 +71,8 @@ Ketika umat melihat daftar nama anggota keluarga, terlihat 3 pilihan di samping 
 
 * Sabtu sore pk 15:00 s.d. 16:00
 * Minggu pagi pk 6:30 s.d. 7:30, termasuk Prodiakon Antar SMK
-* Pengantaran kolektif piksis oleh pengurus lingkungan ditunggu di gereja (sakristi) s.d. Sabtu pk 11:00
+* Pengurus lingkungan mengantar piksis umat secara kolektif ke gereja (sakristi) s.d. Sabtu pk 11:00
+* Piksis umat yang tidak dijemput akan dikosongkan dan akan tersedia di sakristi.
 
 ### Jadwal Pendaftaran
 
@@ -73,15 +80,12 @@ Ketika umat melihat daftar nama anggota keluarga, terlihat 3 pilihan di samping 
 
 ### Alur Pendaftaran
 
-1. Tidak ada perubahan; sama dengan yang sudah pernah berlangsung. 
-2. Termasuk pelayanan Prodiakon Antar SMK.
-3. Pendaftaran melalui Web Bela Rasa.
-4. Tersedia 2 jadwal PPK/SMK Online: Sabtu sore pukul 15:00 s.d. 16:00, dan Minggu pagi pukul 06:30 s.d. 07:30.
-5. Pelayanan Prodiakon Antar SMK khusus Minggu pagi.
-6. Pengumpulan, penjemputan piksis masih sama seperti yang pernah berlangsung:
-    * Piksis dikumpulkan di lingkungan untuk diantarkan kolektif oleh pengurus lingkungan.
-    * Piksis harus sudah siap di gereja Sabtu pk 12:00.
-    * Aturan piksis masih sama.
+1. Umat mendaftarkan diri atau keluarganya pelayanan PPK/SMK Online melalui <a href="https://belarasa.id" target="_blank" alt="Web Bela Rasa">Web Bela Rasa</a>.
+2. Umat akan langsung menerima tiket melalui email setelah pendaftarannya berhasil. Tidak menunggu persetujuan TABP.
+3. Umat antar piksis kepada pengurus lingkungan untuk diantarkan secara kolektif ke gereja. 
+4. Umat jemput piksis sesuai jadwal yang dipilih dengan membawa tiket.
+5. Pastikan umat tidak jemput piksis yang bukan miliknya.
+6. Khusus umat pendaftar pelayanan *Prodiakon Antar SMK*: silakan tunggu di rumah dengan berpakaian pantas. Piksis akan diantarkan prodiakon sebelum misa tatap muka dimulai.
 
 ### Panduan PPK dan Piksis
 
@@ -91,41 +95,45 @@ Ketika umat melihat daftar nama anggota keluarga, terlihat 3 pilihan di samping 
 
 ### Sikap PPK Saat Bawa SMK
 
-* Berlakulah hormat selama bersama SMK, yang merupakan tubuh Kristus sendiri.
+* Berpakaian pantas seperti hendak misa tatap muka. Termasuk keluarga penerima piksis yang diantarkan prodiakon.
+* Berlakulah hormat selama bersama SMK (Sakramen Mahakudus), yang merupakan tubuh Kristus sendiri.
 * Senantiasa ucapkan doa selama bersama SMK.
 * Langsung pulang rumah setelah menjemput piksis; sama sekali tidak mampir.
 * Hindarkan mengobrol, berteriak, bercanda, marah selama bersama SMK.
 * Dilarang berfoto selfie, wefie selama bersama SMK apalagi mempamerkan piksis berisi SMK.
+> Dosa sakrilegi adalah dosa yang disebabkan karena pencemaran, penodaan, penghinaan, pelecehan terhadap yang sakral seperti Sakramen Mahakudus.
 
 ## Lapor Sertifikat Vaksinasi
 
-Berikut panduan bagi umat yang ingin melaporkan sertifikat vaksinasinya.
+Berikut panduan bagi umat yang ingin melaporkan sertifikat vaksinasinya supaya data vaksinasinya tersimpan di BIDUK.
 
-### Daftar Vaksinasi Umat Di BIDUK
+### Data Vaksinasi Umat Di BIDUK
 
-* Umat dapat cek <a href="https://docs.google.com/spreadsheets/d/1FleOXQ0_vi21NcYEEKXpZLisTHtACwU6SDgHfqY0MiY/edit?usp=sharing" target="_blank" alt="">daftar ini</a> apakah data vaksinasinya sudah tersimpan di BIDUK.
-* Daftar ini diperbarui berkala setiap pk 21:00.
+* <a href="https://docs.google.com/spreadsheets/d/1FleOXQ0_vi21NcYEEKXpZLisTHtACwU6SDgHfqY0MiY/edit?usp=sharing" target="_blank" alt="Data vaksinasi umat">Data ini</a> berisi data vaksinasi umat yang telah tersimpan di BIDUK. Siapkan Kode KK dan Nomor Anggota yang tertulis pada Kartu Keluarga Katolik.
+* Data ini akan diperbarui berkala sebagai konfirmasi bagi umat atas laporan sertifikat vaksinasinya.
+* Jika umat tidak menemukan datanya setelah 3x24 jam formulir dikirim, hubungi TABP melalui email (lihat <a href="#narahubung" alt="Narahubung">di sini</a>).
 
 ### Persiapan Sebelum Mengisi Formulir
 
-Data yang diperlukan:
-* Wajib: Wilayah di paroki, Kode Kartu Keluarga Katolik, NIK, Nama resmi, Nomor HP aktif, Alamat email aktif, Tanggal vaksinasi pertama, Tanggal vaksinasi kedua, Foto sertifikat vaksinasi kedua.
-* Opsional: Akun Google.
+* Data wajib = Wilayah di paroki, Kode Kartu Keluarga Katolik, NIK, Nama resmi, Nomor HP aktif, Alamat email aktif, Tanggal vaksinasi pertama, Tanggal vaksinasi kedua, Foto sertifikat vaksinasi kedua.
+* Data opsional = Akun Google.
+* Pelapor punya akun Google? Ikuti prosedur <a href="#pelapor-dengan-akun-google" alt="pelapor punya akun Google">Formulir Model A</a>
+* Pelapor tanpa akun Google? Ikuti prosedur <a href="#pelapor-tanpa-akun-google" alt="pelapor tanpa akun Google">Formulir Model B</a>
 
 ### Pelapor dengan akun Google
 
-* Umat yang memiliki akun Google dihimbau mengisi formulir model A (<a href="https://tinyurl.com/sathorabidukvaksina" target="_blank" alt="Formulir bagi pemilik akun Google">kunjungi di sini</a>).
+* Umat yang memiliki akun Google dihimbau mengisi Formulir Model A (<a href="https://tinyurl.com/sathorabidukvaksina" target="_blank" alt="Formulir bagi pemilik akun Google">kunjungi di sini</a>).
 * Formulir model A menyediakan isian untuk unggah (upload) foto sertifikat vaksinasi kedua. Maksimum berukuran 1 MB.
-* Umat cek daftar ini secara berkala sebagai konfirmasi data vaksinasinya sudah disimpan di BIDUK.
-* Kami rekomendasikan cara ini karena akan sangat meringankan beban kerja.
+* Umat cek <a href="#data-vaksinasi-umat-di-biduk">data vaksinasi umat</a> secara berkala sebagai konfirmasi data vaksinasinya sudah disimpan di BIDUK.
+* Kami rekomendasikan cara ini karena akan sangat meringankan beban kerja TABP.
 
 ### Pelapor tanpa akun Google
 
-* Umat yang *tidak* memiliki akun Google mengisi formulir model B (<a href="https://tinyurl.com/sathorabidukvaksinb" target="_blank" alt="Formulir selain pemilik akun Google">kunjungi di sini</a>).
-* Setelah selesai mengirimkan formulir model ini, umat mengirimkan foto sertifikat vaksinasi kedua melalui email kepada (lihat <a href="https://tinyurl.com/sathorabidukvaksin#narahubung" alt="Narahubung">Narahubung</a> di bawah).
-* Format penulisan email:
-  * Satu email untuk satu orang pelapor. Dilarang penggabungan.
-  * Judul email ditulis 16 angka NIK pelapor (sama dengan yang tertulis di formulir). Contoh: 1234567890123456
+* Umat yang *tidak* memiliki akun Google mengisi Formulir Model B (<a href="https://tinyurl.com/sathorabidukvaksinb" target="_blank" alt="Formulir selain pemilik akun Google">kunjungi di sini</a>).
+* Setelah selesai mengirimkan Formulir Model B ini, umat mengirimkan foto sertifikat vaksinasi kedua melalui email ke [admin.belarasa+lapor@sathora.or.id](mailto:admin.belarasa+lapor@sathora.or.id).
+* Satu email untuk satu orang pelapor. Dilarang penggabungan.
+* Judul email ditulis 16 angka NIK pelapor (sama dengan yang tertulis di formulir). Contoh: 1234567890123456
+* Umat cek <a href="#data-vaksinasi-umat-di-biduk">data vaksinasi umat</a> secara berkala sebagai konfirmasi data vaksinasinya sudah disimpan di BIDUK.
 
 ## Kumpulan Doa
 
