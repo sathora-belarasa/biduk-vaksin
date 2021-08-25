@@ -1,11 +1,9 @@
-* <a href="#pengantar">Pengantar</a>
-* <a href="#jadwal-misa">Jadwal Misa</a>
-* <a href="#jadwal-ppk-smk-online">Jadwal PPK/SMK Online</a>
-* Lapor Sertifikat Vaksinasi
-* Daftar Misa Tatap Muka
-* Daftar PPK/SMK Online
-* <a href="#kumpulan-doa">Kumpulan Doa</a>
-* <a href="#narahubung">Narahubung</a>
+* <a href="#pengantar" alt="Pengantar">Pengantar</a>
+* <a href="#misa-tatap-muka" alt="Misa Tatap Muka">Misa Tatap Muka</a>
+* <a href="#ppk-smk-online" alt="PPK/SMK Online">PPK/SMK Online</a>
+* <a href="#lapor-sertifikat-vaksinasi" alt="Lapor Sertifikat Vaksinasi">Lapor Sertifikat Vaksinasi</a>
+* <a href="#kumpulan-doa" alt="Kumpulan Doa PPK/SMK Online">Kumpulan Doa PPK/SMK Online</a>
+* <a href="#narahubung" alt="Narahubung">Narahubung</a>
 
 ## Pengantar
 
@@ -33,48 +31,12 @@
 * <a href="/biduk-vaksin/docs/assets/misa-2109.jpeg" target="_blank" alt="Infografik Jadwal Misa">Infografik jadwal misa September 2021</a>
 * <a href="/biduk-vaksin/docs/assets/petugas-wilayah.png" target="_blank" alt="Jadwal Petugas Wilayah">Jadwal petugas wilayah September & Oktober 2021</a>
 
-### Aturan
-
-
-###
-
-## PPK/SMK Online
-
-> Kerinduan dan keinginan menerima Sakramen Mahakudus harus muncul dari keluarga atau umat.
-
-### Jadwal 
-
-* Sabtu sore pk 15:00 s.d. 16:00
-* Minggu pagi pk 6:30 s.d. 7:30, termasuk Prodiakon Antar SMK
-* Pengantaran kolektif piksis oleh pengurus lingkungan ditunggu di gereja (sakristi) s.d. Sabtu pk 11:00
-
-### Panduan PPK dan Piksis
-
-![Panduan Piksis 1](/docs/assets/panduan-piksis-1.png "Panduan piksis 1")
-![Panduan Piksis 2](/docs/assets/panduan-piksis-2.png "Panduan piksis 2")
-![Panduan Piksis 3](/docs/assets/panduan-piksis-3.png "Panduan piksis 3")
-
-### Sikap PPK Saat Bawa SMK
-
-* Berlakulah hormat selama bersama SMK, yang merupakan tubuh Kristus sendiri.
-* Senantiasa ucapkan doa selama bersama SMK.
-* Langsung pulang rumah setelah menjemput piksis; sama sekali tidak mampir.
-* Hindarkan mengobrol, berteriak, bercanda, marah selama bersama SMK.
-* Dilarang berfoto selfie, wefie selama bersama SMK apalagi mempamerkan piksis berisi SMK.
-
-## Tata Cara Pendaftaran
-
 ### Jadwal Pendaftaran
 
-* Pendaftaran misa lansia, misa keluarga dibuka H-7 (hari Minggu) mulai pk 14:00; ditutup H-2 (hari Jumat) pk 18:00 atau jika kuota misa habis.
-* Pendaftaran PPK/SMK Online Sabtu & Minggu dibuka H-7 (hari Minggu) mulai pk 14:00.
+* Semua misa tatap muka mingguan (misa lansia, misa keluarga) dibuka H-7 (hari Minggu) mulai pk 14:00.
+* Ditutup H-2 (hari Jumat) pk 18:00 atau jika kuota misa habis lebih dulu.
 
-### Daftar Vaksinasi Umat Di BIDUK
-
-* Umat dapat cek <a href="https://docs.google.com/spreadsheets/d/1FleOXQ0_vi21NcYEEKXpZLisTHtACwU6SDgHfqY0MiY/edit?usp=sharing" target="_blank" alt="">daftar ini</a> apakah data vaksinasinya sudah tersimpan di BIDUK.
-* Daftar ini diperbarui berkala setiap pk 21:00.
-
-### Alur Pendaftaran Misa Tatap Muka
+### Alur Pendaftaran 
 
 1. Cek <a href="https://tinyurl.com/sathorabidukvaksin#daftar-vaksinasi-umat-di-biduk" alt="Daftar vaksinasi umat di BIDUK">di sini</a> apakah data vaksinasi sudah tersedia di BIDUK.
 2. Bagi umat yang data vaksinasinya belum tersedia di BIDUK dan telah menerima vaksinasi lengkap, silakan mengisi salah satu formulir berikut:
@@ -95,7 +57,21 @@ Ketika umat melihat daftar nama anggota keluarga, terlihat 3 pilihan di samping 
 * SMK bearti umat yang ingin menyambut SMK di rumah yang diantarkan PPK sewaktu komuni misa tatap muka.
 * Untuk memilih SMK, pilih dulu salah satu anggota keluarga yang hadiri misa di gereja sebagai PPK. Lanjut pilih anggota keluarga sebagai SMK.
 
-### Alur Pendaftaran PPK/SMK Online
+## PPK/SMK Online
+
+> Kerinduan dan keinginan menerima Sakramen Mahakudus harus muncul dari keluarga atau umat.
+
+### Jadwal Pelayanan
+
+* Sabtu sore pk 15:00 s.d. 16:00
+* Minggu pagi pk 6:30 s.d. 7:30, termasuk Prodiakon Antar SMK
+* Pengantaran kolektif piksis oleh pengurus lingkungan ditunggu di gereja (sakristi) s.d. Sabtu pk 11:00
+
+### Jadwal Pendaftaran
+
+* Mulai H-7 (hari Minggu) mulai pk 14:00.
+
+### Alur Pendaftaran
 
 1. Tidak ada perubahan; sama dengan yang sudah pernah berlangsung. 
 2. Termasuk pelayanan Prodiakon Antar SMK.
@@ -107,9 +83,28 @@ Ketika umat melihat daftar nama anggota keluarga, terlihat 3 pilihan di samping 
     * Piksis harus sudah siap di gereja Sabtu pk 12:00.
     * Aturan piksis masih sama.
 
+### Panduan PPK dan Piksis
+
+![Panduan Piksis 1](/docs/assets/panduan-piksis-1.png "Panduan piksis 1")
+![Panduan Piksis 2](/docs/assets/panduan-piksis-2.png "Panduan piksis 2")
+![Panduan Piksis 3](/docs/assets/panduan-piksis-3.png "Panduan piksis 3")
+
+### Sikap PPK Saat Bawa SMK
+
+* Berlakulah hormat selama bersama SMK, yang merupakan tubuh Kristus sendiri.
+* Senantiasa ucapkan doa selama bersama SMK.
+* Langsung pulang rumah setelah menjemput piksis; sama sekali tidak mampir.
+* Hindarkan mengobrol, berteriak, bercanda, marah selama bersama SMK.
+* Dilarang berfoto selfie, wefie selama bersama SMK apalagi mempamerkan piksis berisi SMK.
+
 ## Lapor Sertifikat Vaksinasi
 
 Berikut panduan bagi umat yang ingin melaporkan sertifikat vaksinasinya.
+
+### Daftar Vaksinasi Umat Di BIDUK
+
+* Umat dapat cek <a href="https://docs.google.com/spreadsheets/d/1FleOXQ0_vi21NcYEEKXpZLisTHtACwU6SDgHfqY0MiY/edit?usp=sharing" target="_blank" alt="">daftar ini</a> apakah data vaksinasinya sudah tersimpan di BIDUK.
+* Daftar ini diperbarui berkala setiap pk 21:00.
 
 ### Persiapan Sebelum Mengisi Formulir
 
@@ -132,10 +127,6 @@ Data yang diperlukan:
   * Satu email untuk satu orang pelapor. Dilarang penggabungan.
   * Judul email ditulis 16 angka NIK pelapor (sama dengan yang tertulis di formulir). Contoh: 1234567890123456
 
-## Narahubung
-
-Kami dapat dihubungi [di sini](mailto:admin.belarasa+bidukvaksin@sathora.or.id).
-
 ## Kumpulan Doa
 
 ### Doa sebelum PPK menjemput piksis
@@ -144,7 +135,7 @@ Kami dapat dihubungi [di sini](mailto:admin.belarasa+bidukvaksin@sathora.or.id).
 > Berilah aku rahmat kesetiaan dan kasih dalam membawa Sakramen Mahakudus ini, agar mereka yang kulayani sungguh dapat merasakan kehadiran-Mu dalam Sakramen Mahakudus ini.
 > Demi Kristus Tuhan dan pengantara kami. Amin*
 
-### Doa saat menunggu sebelum santap SMK (1)
+### Doa saat menunggu sebelum santap SMK [1]
 
 > *Aku menyerahkan diriku kepada Tuhan, yang kini hadir dalam Sakramen Mahakudus di hadapanku
 > Aku menyembah Engkau, ya Penyelamatku.
@@ -156,7 +147,7 @@ Kami dapat dihubungi [di sini](mailto:admin.belarasa+bidukvaksin@sathora.or.id).
 > 
 > Cardinal Henry Newman 
 
-### Doa saat menunggu sebelum santap SMK (2)
+### Doa saat menunggu sebelum santap SMK [2]
 
 > *Aku menyembah-Mu, ya Yesusku
 > Aku memuji-Mu, ya Yesusku
@@ -171,4 +162,7 @@ Kami dapat dihubungi [di sini](mailto:admin.belarasa+bidukvaksin@sathora.or.id).
 > Aku mempercayakan hidupku pada kehendak dan kehadiran-Mu
 > Amin.*
 
+## Narahubung
 
+Khusus kirim foto sertifikat vaksinasi (formulir model B): [admin.belarasa+lapor@sathora.or.id](mailto:admin.belarasa+lapor@sathora.or.id).
+Kami dapat dihubungi [admin.belarasa@sathora.or.id](mailto:admin.belarasa@sathora.or.id).
