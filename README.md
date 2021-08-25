@@ -111,7 +111,7 @@ Berikut panduan bagi umat yang ingin melaporkan sertifikat vaksinasinya supaya d
 
 * <a href="https://docs.google.com/spreadsheets/d/1FleOXQ0_vi21NcYEEKXpZLisTHtACwU6SDgHfqY0MiY/edit?usp=sharing" target="_blank" alt="Data vaksinasi umat">Data ini</a> berisi data vaksinasi umat yang telah tersimpan di BIDUK. Siapkan Kode KK dan Nomor Anggota yang tertulis pada Kartu Keluarga Katolik.
 * Data ini akan diperbarui berkala sebagai konfirmasi bagi umat atas laporan sertifikat vaksinasinya.
-* Jika umat tidak menemukan datanya setelah 3x24 jam formulir dikirim, hubungi TABP melalui email (lihat <a href="#narahubung" alt="Narahubung">di sini</a>).
+* Jika umat tidak menemukan datanya setelah 3x24 jam Formulir Model A/B dikirim, hubungi TABP melalui email (lihat <a href="#narahubung" alt="Narahubung">di sini</a>).
 
 ### Persiapan Sebelum Mengisi Formulir
 
