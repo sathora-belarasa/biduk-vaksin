@@ -1,7 +1,7 @@
 * <a href="#pengantar" alt="Pengantar">Pengantar</a>
 * <a href="#misa-tatap-muka" alt="Misa Tatap Muka">Misa Tatap Muka</a>
 * <a href="#ppksmk-online" alt="PPK/SMK Online">PPK/SMK Online</a>
-* <a href="#lapor-sertifikat-vaksinasi" alt="Lapor Sertifikat Vaksinasi">Lapor Sertifikat Vaksinasi</a>
+* <a href="#lapor-sertifikat-vaksinasi" alt="Lapor Sertifikat Vaksinasi">Lapor Sertifikat Vaksinasi COVID-19</a>
 * <a href="#kumpulan-doa" alt="Kumpulan Doa PPK/SMK Online">Kumpulan Doa PPK/SMK Online</a>
 * <a href="#narahubung" alt="Narahubung">Narahubung</a>
 
@@ -108,7 +108,7 @@ Ketika umat melihat pilihan nama-nama anggota keluarga, terlihat 3 pilihan di sa
 
 ## Lapor Sertifikat Vaksinasi
 
-Berikut panduan bagi umat yang ingin melaporkan sertifikat vaksinasinya supaya data vaksinasinya tersimpan di BIDUK.
+Berikut panduan bagi umat yang ingin melaporkan sertifikat vaksinasi COVID-19 supaya data vaksinasinya tersimpan di BIDUK.
 
 ### Data Vaksinasi Umat Di BIDUK
 
