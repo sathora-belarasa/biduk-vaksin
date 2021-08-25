@@ -48,7 +48,7 @@
 ### Alur Pendaftaran 
 
 1. Cek <a href="https://docs.google.com/spreadsheets/d/1FleOXQ0_vi21NcYEEKXpZLisTHtACwU6SDgHfqY0MiY/edit?usp=sharing" target="_blank" alt="Data vaksinasi umat">di sini</a> untuk melihat apakah data vaksinasi umat sudah tersimpan di BIDUK. Siapkan Kode KK dan Nomor Anggota yang tertulis pada Kartu Keluarga Katolik.
-2. Bagi umat yang data vaksinasinya belum tersimpan di BIDUK dan telah menerima vaksinasi lengkap, silakan lapor sertifikat vaksinasi (<a href="#lapor-sertifikat-vaksinasi" lihat caranya di sini</a>).
+2. Bagi umat yang data vaksinasinya belum tersimpan di BIDUK dan telah menerima vaksinasi lengkap, silakan lapor sertifikat vaksinasi (<a href="#lapor-sertifikat-vaksinasi" alt="Panduan lapor sertifikat vaksinasi">lihat caranya di sini</a>).
 3. Cek berkala data vaksinasi umat (langkah ke-1) sebelum umat lanjut mendaftarkan diri atau keluarganya misa tatap muka melalui <a href="https://belarasa.id" target="_blank" alt="Web Bela Rasa">Web Bela Rasa</a>.  
 4. Untuk melihat status pendaftaran misa tatap muka yang telah dikirim, umat masuk menu *Tiket Misa Saya*.
 5. TABP akan melakukan verifikasi manual data vaksinasi umat pendaftar yang masuk. Umat dimohon sabar menunggu. Umat pastikan pendaftarannya di *Tiket Misa Saya* berstatus menunggu persetujuan.
