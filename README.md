@@ -164,5 +164,5 @@ Data yang diperlukan:
 
 ## Narahubung
 
-Khusus kirim foto sertifikat vaksinasi (formulir model B): [admin.belarasa+lapor@sathora.or.id](mailto:admin.belarasa+lapor@sathora.or.id).
-Kami dapat dihubungi [admin.belarasa@sathora.or.id](mailto:admin.belarasa@sathora.or.id).
+* Khusus kirim foto sertifikat vaksinasi (formulir model B): [admin.belarasa+lapor@sathora.or.id](mailto:admin.belarasa+lapor@sathora.or.id).
+* Kami dapat dihubungi [admin.belarasa@sathora.or.id](mailto:admin.belarasa@sathora.or.id).
