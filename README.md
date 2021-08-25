@@ -14,6 +14,7 @@
 * Panduan ini berlaku mulai September 2021.
 * Umat, termasuk petugas, dihimbau mendaftarkan diri secara mandiri. Bagi yang mengalami kesulitan lapor sertifikat vaksinasi, mendaftar misa tatap muka, mendaftar PPK/SMK Online dapat dibantu anggota keluarga, pengurus lingkungan, OMK lingkungan, atau sesama umat lainnya yang dipercaya.
 * Mohon pengertian umat menyediakan waktu yang cukup dalam mengikuti panduan ini.
+* Umat yang mengikuti misa tatap muka menyetujui segala ketentuan dan persyaratan yang ditentukan Paroki Bojong Indah dan Keuskupan Agung Jakarta, serta memahami risikonya.
 
 ## Misa Tatap Muka
 
