@@ -48,11 +48,9 @@
 
       </section>
       <footer>
-        {% if site.github.is_project_page %}
-          <p>Project maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
+        <p>Site maintained by {{ site.github.owner_name }}</p>
         <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/mattgraham">mattgraham</a></small></p>
-        <p><small>Version {{ page.version }}</small></p>
+        <p><small>Version {{ site.version }}</small></p>
       </footer>
     </div>
   </body>
