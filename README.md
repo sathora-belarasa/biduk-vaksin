@@ -37,6 +37,14 @@
 * Minggu pagi pk 6:30 s.d. 7:30, termasuk Prodiakon Antar SMK
 * Pengantaran kolektif piksis oleh pengurus lingkungan ditunggu di gereja (sakristi) s.d. Sabtu pk 11:00
 
+### Sikap PPK Saat Bawa SMK
+
+* Berlakulah hormat selama bersama SMK, yang merupakan tubuh Kristus sendiri.
+* Senantiasa ucapkan doa selama bersama SMK.
+* Langsung pulang rumah setelah menjemput piksis; sama sekali tidak mampir.
+* Hindarkan mengobrol, berteriak, bercanda, marah selama bersama SMK.
+* Dilarang berfoto selfie, wefie selama bersama SMK apalagi mempamerkan piksis berisi SMK.
+
 ## Tata Cara Pendaftaran
 
 ### Jadwal Pendaftaran
@@ -110,3 +118,40 @@ Data yang diperlukan:
 ## Narahubung
 
 Kami dapat dihubungi [di sini](mailto:admin.belarasa+bidukvaksin@sathora.or.id).
+
+## Kumpulan Doa
+
+### Doa sebelum PPK menjemput piksis
+
+> *Ya Allah yang penuh kasih, aku akan menjemput dan menghantar Sakramen Mahakudus ini untuk mereka yang sungguh merindukan-Nya.
+> Berilah aku rahmat kesetiaan dan kasih dalam membawa Sakramen Mahakudus ini, agar mereka yang kulayani sungguh dapat merasakan kehadiran-Mu dalam Sakramen Mahakudus ini.
+> Demi Kristus Tuhan dan pengantara kami. Amin*
+
+### Doa saat menunggu sebelum santap SMK (1)
+
+> *Aku menyerahkan diriku kepada Tuhan, yang kini hadir dalam Sakramen Mahakudus di hadapanku
+> Aku menyembah Engkau, ya Penyelamatku.
+> Engkau hadir di sini sebagai Allah dan manusia, dalam jiwa dan badan, dalam daging dan darah yang sungguh-sungguh.
+> 
+> Aku percaya dan mengakui bahwa aku bersembah sujud di hadapan kemanusiaan yang kudus, yang telah dikandung dalam rahim Maria, dan terbaring di pangkuan Maria; yang tumbuh di tanah manusia, dan telah memanggil kedua belas rasul di Pantai Danau Galilea, yang telah membuat mukjizat, dan menyampaikan perkataan bijaksana dan damai; yang telah tergantung di salib, terbaring di makam, bangkit dari antara orang mati, dan kini memerintah sebagai raja di surga. 
+> 
+> Aku memuji, mempersembahkan dan membaktikan seluruh diriku kepada Dia yang menjadi roti hidup bagi jiwaku dan suka citaku yang abadi. Amin.*
+> 
+> Cardinal Henry Newman 
+
+### Doa saat menunggu sebelum santap SMK (2)
+
+> *Aku menyembah-Mu, ya Yesusku
+> Aku memuji-Mu, ya Yesusku
+> Aku merindukan-Mu, ya Yesusku
+> Aku ingin mengabdi-Mu lebih setia, ya Yesusku
+> Aku ingin mengampuni saudaraku lebih sungguh, ya Yesusku
+> Aku ingin mengenal diriku, supaya makin layak di hadapan-Mu, ya Yesusku
+> Pandanglah aku, ya Yesusku, Engkau kekuatan dan hiburanku
+> Pandanglah aku, ya Yesusku, Engkau andalan dan keselamatanku
+> Pandanglah aku, ya Yesusku, Engkau peneguh langkah hidupku
+> Kehadiran-Mu dalam Sakramen Mahakudus memancarkan kasih setia yang tiada batasnya
+> Aku mempercayakan hidupku pada kehendak dan kehadiran-Mu
+> Amin.*
+
+
