@@ -2,7 +2,7 @@
 * <a href="#misa-tatap-muka" alt="Misa Tatap Muka">Misa Tatap Muka</a>
 * <a href="#ppksmk-online" alt="PPK/SMK Online">PPK/SMK Online</a>
 * <a href="#lapor-sertifikat-vaksinasi" alt="Lapor Sertifikat Vaksinasi">Lapor Sertifikat Vaksinasi COVID-19</a>
-* <a href="#kumpulan-doa" alt="Kumpulan Doa PPK/SMK Online">Kumpulan Doa PPK/SMK Online</a>
+* <a href="#kumpulan-doa-ppksmk-online" alt="Kumpulan Doa PPK/SMK Online">Kumpulan Doa PPK/SMK Online</a>
 * <a href="#narahubung" alt="Narahubung">Narahubung</a>
 
 ## Pengantar
