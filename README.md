@@ -85,9 +85,9 @@ Ketika umat melihat daftar nama anggota keluarga, terlihat 3 pilihan di samping 
 
 ### Panduan PPK dan Piksis
 
-![Panduan Piksis 1](/docs/assets/panduan-piksis-1.png "Panduan piksis 1")
-![Panduan Piksis 2](/docs/assets/panduan-piksis-2.png "Panduan piksis 2")
-![Panduan Piksis 3](/docs/assets/panduan-piksis-3.png "Panduan piksis 3")
+![Panduan Piksis 1](/biduk-vaksin/docs/assets/panduan-piksis-1.png "Panduan piksis 1")
+![Panduan Piksis 2](/biduk-vaksin/docs/assets/panduan-piksis-2.png "Panduan piksis 2")
+![Panduan Piksis 3](/biduk-vaksin/docs/assets/panduan-piksis-3.png "Panduan piksis 3")
 
 ### Sikap PPK Saat Bawa SMK
 
