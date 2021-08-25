@@ -31,13 +31,13 @@
 
 * Pendaftaran misa tatap muka Selasa dibuka H-4 (hari Jumat).
 * Pendaftaran misa tatap muka Kamis, Jumat dibuka H-4/5 (hari Minggu).
-* Kuota umat, petugas, dan romo 50 orang.
+* Kuota umat, petugas, bruder/suster, dan romo 50 orang.
 
 ### Jadwal Pendaftaran Mingguan
 
 * Semua misa tatap muka mingguan (misa lansia, misa keluarga) dibuka H-7 (hari Minggu) mulai pk 14:00.
 * Ditutup H-2 (hari Jumat) pk 18:00 atau jika kuota misa habis lebih dulu.
-* Kuota umat, petugas, dan romo 200 orang.
+* Kuota umat, petugas, bruder/suster, dan romo 200 orang.
 
 ### Batasan Umur dan Vaksinasi
 
