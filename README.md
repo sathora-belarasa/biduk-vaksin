@@ -12,6 +12,7 @@
 > Press Release Surat Keputusan Dan Penegasan Pemberian Ijin Memulai Kembali Kegiatan Gerejawi Offline, No. Humas KAJ/ARS-010/2308/2021, 23 Agustus 2021.
 * Panduan ini berlaku mulai September 2021.
 * Umat yang mengalami kesulitan lapor sertifikat vaksinasi, mendaftar misa tatap muka, mendaftar PPK/SMK Online dapat dibantu anggota keluarga, pengurus lingkungan, OMK lingkungan, atau sesama umat lainnya yang dipercaya.
+* Mohon pengertian umat untuk mengatur waktunya mendaftarkan diri pelayanan yang diinginkan sesuai panduan ini.
 
 ## Misa Tatap Muka
 
