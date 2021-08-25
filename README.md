@@ -95,7 +95,7 @@ Ketika umat melihat pilihan nama-nama anggota keluarga, terlihat 3 pilihan di sa
 
 ### Sikap PPK Saat Bawa SMK
 
-* Berpakaian pantas seperti hendak misa tatap muka. Termasuk keluarga penerima piksis yang diantarkan prodiakon.
+* Berpakaian pantas seperti hendak hadiri misa tatap muka. Termasuk penerima piksis yang diantarkan prodiakon.
 * Berlakulah hormat selama bersama SMK (Sakramen Mahakudus), yang merupakan tubuh Kristus sendiri.
 * Senantiasa ucapkan doa selama bersama SMK.
 * Langsung pulang rumah setelah menjemput piksis; sama sekali tidak mampir.
