@@ -138,7 +138,7 @@ Berikut panduan bagi umat yang ingin melaporkan sertifikat vaksinasinya supaya d
 * Judul email ditulis 16 angka NIK pelapor (sama dengan yang tertulis di formulir). Contoh: 1234567890123456
 * Umat cek <a href="#data-vaksinasi-umat-di-biduk">data vaksinasi umat</a> secara berkala sebagai konfirmasi data vaksinasinya sudah disimpan di BIDUK.
 
-## Kumpulan Doa
+## Kumpulan Doa PPK/SMK Online
 
 ### Doa sebelum PPK menjemput piksis
 
