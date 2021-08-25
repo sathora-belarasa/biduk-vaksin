@@ -28,7 +28,7 @@
 * Umat yang berkesempatan hadiri misa tatap muka bergiliran antara Wilayah 1 dan Wilayah 2
 * Wilayah 1: Yohanes, Lucia, Elisabeth, Paulus, Stefanus, Ignatius, Timotius, Antonius Theresia 
 * Wilayah 2: Yosef, Dominikus, Petrus, Katarina, Lukas, Matius, Fransiskus, Klara, Benediktus
-* <a href="/biduk-vaksin/assets/misa-2109.jpeg" target="_blank" alt="Infografik Jadwal Misa September 2021">Infografik jadwal misa September 2021</a>
+* <a href="/biduk-vaksin/docs/assets/misa-2109.jpeg" target="_blank" alt="Infografik Jadwal Misa September 2021">Infografik jadwal misa September 2021</a>
 
 ## Jadwal PPK/SMK Online
 
