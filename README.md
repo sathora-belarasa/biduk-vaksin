@@ -1,7 +1,7 @@
 * <a href="#pengantar" alt="Pengantar">Pengantar</a>
 * <a href="#misa-tatap-muka" alt="Misa Tatap Muka">Misa Tatap Muka</a>
 * <a href="#ppksmk-online" alt="PPK/SMK Online">PPK/SMK Online</a>
-* <a href="#lapor-sertifikat-vaksinasi" alt="Lapor Sertifikat Vaksinasi">Lapor Sertifikat Vaksinasi COVID-19</a>
+* <a href="#lapor-sertifikat-vaksinasi-covid19" alt="Lapor Sertifikat Vaksinasi">Lapor Sertifikat Vaksinasi COVID-19</a>
 * <a href="#kumpulan-doa-ppksmk-online" alt="Kumpulan Doa PPK/SMK Online">Kumpulan Doa PPK/SMK Online</a>
 * <a href="#narahubung" alt="Narahubung">Narahubung</a>
 
@@ -106,7 +106,7 @@ Ketika umat melihat pilihan nama-nama anggota keluarga, terlihat 3 pilihan di sa
 * Dilarang berfoto selfie, wefie selama bersama SMK apalagi mempamerkan piksis berisi SMK.
 > Dosa sakrilegi adalah dosa yang disebabkan karena pencemaran, penodaan, penghinaan, pelecehan terhadap yang sakral seperti Sakramen Mahakudus.
 
-## Lapor Sertifikat Vaksinasi
+## Lapor Sertifikat Vaksinasi COVID-19
 
 Berikut panduan bagi umat yang ingin melaporkan sertifikat vaksinasi COVID-19 supaya data vaksinasinya tersimpan di BIDUK.
 
