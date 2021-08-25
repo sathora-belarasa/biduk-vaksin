@@ -19,7 +19,9 @@
 >
 > Press Release Surat Keputusan Dan Penegasan Pemberian Ijin Memulai Kembali Kegiatan Gerejawi Offline, No. Humas KAJ/ARS-010/2308/2021, 23 Agustus 2021
 
-## Jadwal Misa 
+## Misa Tatap Muka
+
+### Jadwal
 
 * Senin, Rabu, Sabtu pk 6:00 (online)
 * Selasa, Kamis, Jumat pk 6:00 (tatap muka & online)
@@ -31,11 +33,26 @@
 * <a href="/biduk-vaksin/docs/assets/misa-2109.jpeg" target="_blank" alt="Infografik Jadwal Misa">Infografik jadwal misa September 2021</a>
 * <a href="/biduk-vaksin/docs/assets/petugas-wilayah.png" target="_blank" alt="Jadwal Petugas Wilayah">Jadwal petugas wilayah September & Oktober 2021</a>
 
-## Jadwal PPK/SMK Online
+### Aturan
+
+
+###
+
+## PPK/SMK Online
+
+> Kerinduan dan keinginan menerima Sakramen Mahakudus harus muncul dari keluarga atau umat.
+
+### Jadwal 
 
 * Sabtu sore pk 15:00 s.d. 16:00
 * Minggu pagi pk 6:30 s.d. 7:30, termasuk Prodiakon Antar SMK
 * Pengantaran kolektif piksis oleh pengurus lingkungan ditunggu di gereja (sakristi) s.d. Sabtu pk 11:00
+
+### Panduan PPK dan Piksis
+
+![Panduan Piksis 1](/docs/assets/panduan-piksis-1.png "Panduan piksis 1")
+![Panduan Piksis 2](/docs/assets/panduan-piksis-2.png "Panduan piksis 2")
+![Panduan Piksis 3](/docs/assets/panduan-piksis-3.png "Panduan piksis 3")
 
 ### Sikap PPK Saat Bawa SMK
 
