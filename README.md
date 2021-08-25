@@ -25,7 +25,7 @@
 * Selasa, Kamis, Jumat pk 6:00 (tatap muka & online)
 * Sabtu pk 17:00 (tatap muka khusus lansia & online)
 * Minggu pk 8:30 & 11:00 (tatap muka khusus keluarga & online)
-* Umat yang berkesempatan hadiri misa tatap muka bergiliran sesuai area wilayah: Wilayah 1 atau Wilayah 2
+* Umat yang berkesempatan hadiri misa tatap muka bergiliran antara Wilayah 1 dan Wilayah 2
 * Wilayah 1: Yohanes, Lucia, Elisabeth, Paulus, Stefanus, Ignatius, Timotius, Antonius Theresia 
 * Wilayah 2: Yosef, Dominikus, Petrus, Katarina, Lukas, Matius, Fransiskus, Klara, Benediktus
 * <a href="/biduk-vaksin/assets/misa-2109.jpeg" target="_blank" alt="Infografik Jadwal Misa September 2021">Infografik jadwal misa September 2021</a>
@@ -33,7 +33,8 @@
 ## Jadwal PPK/SMK Online
 
 * Sabtu sore pk 15:00 s.d. 16:00
-* Minggu pagi pk 6:30 s.d. 7:30
+* Minggu pagi pk 6:30 s.d. 7:30, termasuk Prodiakon Antar SMK
+* Pengantaran kolektif piksis oleh pengurus lingkungan ditunggu di gereja (sakristi) s.d. Sabtu pk 11:00
 
 ## Tata Cara Pendaftaran
 
