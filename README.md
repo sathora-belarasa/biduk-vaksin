@@ -132,13 +132,17 @@ Data yang diperlukan:
 ### Doa sebelum PPK menjemput piksis
 
 > *Ya Allah yang penuh kasih, aku akan menjemput dan menghantar Sakramen Mahakudus ini untuk mereka yang sungguh merindukan-Nya.
+> 
 > Berilah aku rahmat kesetiaan dan kasih dalam membawa Sakramen Mahakudus ini, agar mereka yang kulayani sungguh dapat merasakan kehadiran-Mu dalam Sakramen Mahakudus ini.
-> Demi Kristus Tuhan dan pengantara kami. Amin*
+> 
+> Demi Kristus Tuhan dan pengantara kami. Amin.*
 
 ### Doa saat menunggu sebelum santap SMK [1]
 
-> *Aku menyerahkan diriku kepada Tuhan, yang kini hadir dalam Sakramen Mahakudus di hadapanku
+> *Aku menyerahkan diriku kepada Tuhan, yang kini hadir dalam Sakramen Mahakudus di hadapanku.
+> 
 > Aku menyembah Engkau, ya Penyelamatku.
+> 
 > Engkau hadir di sini sebagai Allah dan manusia, dalam jiwa dan badan, dalam daging dan darah yang sungguh-sungguh.
 > 
 > Aku percaya dan mengakui bahwa aku bersembah sujud di hadapan kemanusiaan yang kudus, yang telah dikandung dalam rahim Maria, dan terbaring di pangkuan Maria; yang tumbuh di tanah manusia, dan telah memanggil kedua belas rasul di Pantai Danau Galilea, yang telah membuat mukjizat, dan menyampaikan perkataan bijaksana dan damai; yang telah tergantung di salib, terbaring di makam, bangkit dari antara orang mati, dan kini memerintah sebagai raja di surga. 
@@ -150,19 +154,30 @@ Data yang diperlukan:
 ### Doa saat menunggu sebelum santap SMK [2]
 
 > *Aku menyembah-Mu, ya Yesusku
+> 
 > Aku memuji-Mu, ya Yesusku
+> 
 > Aku merindukan-Mu, ya Yesusku
+> 
 > Aku ingin mengabdi-Mu lebih setia, ya Yesusku
+> 
 > Aku ingin mengampuni saudaraku lebih sungguh, ya Yesusku
+> 
 > Aku ingin mengenal diriku, supaya makin layak di hadapan-Mu, ya Yesusku
+> 
 > Pandanglah aku, ya Yesusku, Engkau kekuatan dan hiburanku
+> 
 > Pandanglah aku, ya Yesusku, Engkau andalan dan keselamatanku
+> 
 > Pandanglah aku, ya Yesusku, Engkau peneguh langkah hidupku
+> 
 > Kehadiran-Mu dalam Sakramen Mahakudus memancarkan kasih setia yang tiada batasnya
+> 
 > Aku mempercayakan hidupku pada kehendak dan kehadiran-Mu
+> 
 > Amin.*
 
 ## Narahubung
 
 * Khusus kirim foto sertifikat vaksinasi (formulir model B): [admin.belarasa+lapor@sathora.or.id](mailto:admin.belarasa+lapor@sathora.or.id).
-* Kami dapat dihubungi [admin.belarasa@sathora.or.id](mailto:admin.belarasa@sathora.or.id).
+* Kami dapat dihubungi di [admin.belarasa@sathora.or.id](mailto:admin.belarasa@sathora.or.id).
