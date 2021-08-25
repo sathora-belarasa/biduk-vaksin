@@ -1,5 +1,6 @@
 * <a href="#pengantar">Pengantar</a>
 * <a href="#jadwal-misa">Jadwal Misa</a>
+* <a href="#jadwal-ppk-smk-online">Jadwal PPK/SMK Online</a>
 * Lapor Sertifikat Vaksinasi
 * Daftar Misa Tatap Muka
 * Daftar PPK/SMK Online
@@ -17,6 +18,22 @@
 > *"Marilah kita sebagai putra-putri Allah membangun keluarga Kerajaan Allah yang mencintai sesama seperti diri sendiri, belajar memahami, menerima dan mencintai situasi pandemi COVID-19 serta melihat, merasakan, mengalami kasih dan kemuliaan Tuhan, sang Penebus. Jaga kebersihan dan kesehatan lahir-batin, diam di rumah dan saling mendoakan dalam perlindungan Bunda Maria dan St. Yusup #SemakinMengasihi #SemakinTerlibat #SemakinMenjadiBerkat."*
 >
 > Press Release Surat Keputusan Dan Penegasan Pemberian Ijin Memulai Kembali Kegiatan Gerejawi Offline, No. Humas KAJ/ARS-010/2308/2021, 23 Agustus 2021
+
+## Jadwal Misa 
+
+* Senin, Rabu, Sabtu pk 6:00 (online)
+* Selasa, Kamis, Jumat pk 6:00 (tatap muka & online)
+* Sabtu pk 17:00 (tatap muka khusus lansia & online)
+* Minggu pk 8:30 & 11:00 (tatap muka khusus keluarga & online)
+* Umat yang berkesempatan hadiri misa tatap muka bergiliran sesuai area wilayah: Wilayah 1 atau Wilayah 2
+* Wilayah 1: Yohanes, Lucia, Elisabeth, Paulus, Stefanus, Ignatius, Timotius, Antonius Theresia 
+* Wilayah 2: Yosef, Dominikus, Petrus, Katarina, Lukas, Matius, Fransiskus, Klara, Benediktus
+* <a href="./docs/assets/misa-2109.jpeg" target="_blank" alt="Infografik Jadwal Misa September 2021">Infografik jadwal misa September 2021</a>
+
+## Jadwal PPK/SMK Online
+
+* Sabtu sore pk 15:00 s.d. 16:00
+* Minggu pagi pk 6:30 s.d. 7:30
 
 ## Tata Cara Pendaftaran
 
