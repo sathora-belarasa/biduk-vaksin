@@ -1,6 +1,10 @@
-* Pengantar
+* <a href="#pengantar">Pengantar</a>
+* <a href="#jadwal-misa">Jadwal Misa</a>
 * Lapor Sertifikat Vaksinasi
-* Pendaftaran Web Bela Rasa
+* Daftar Misa Tatap Muka
+* Daftar PPK/SMK Online
+* <a href="#kumpulan-doa">Kumpulan Doa</a>
+* <a href="#narahubung">Narahubung</a>
 
 ## Pengantar
 
