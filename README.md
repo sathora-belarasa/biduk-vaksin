@@ -15,6 +15,7 @@
 * Umat, termasuk petugas, dihimbau mendaftarkan diri secara mandiri. Bagi yang mengalami kesulitan lapor sertifikat vaksinasi, mendaftar misa tatap muka, mendaftar PPK/SMK Online dapat dibantu anggota keluarga, pengurus lingkungan, OMK lingkungan, atau sesama umat lainnya yang dipercaya.
 * Mohon pengertian umat menyediakan waktu yang cukup dalam mengikuti panduan ini.
 * Umat yang mengikuti misa tatap muka menyetujui segala ketentuan dan persyaratan yang ditentukan Paroki Bojong Indah dan Keuskupan Agung Jakarta, serta memahami risikonya.
+* [29/08/2021 7:17] Karena kehadiran versi Web Bela Rasa terbaru, umat pendaftar misa tatap muka baik lansia dan keluarga akan langsung menerima tiket misa tanpa menunggu persetujuan TABP. Umat tanpa data vaksin di Biduk akan melihat namanya di bagian tidak memenuhi persyaratan misa; mereka bisa dipilih sebagai pemohon SMK saja.
 
 ## Misa Tatap Muka
 
@@ -55,9 +56,10 @@
 1. Cek <a href="https://docs.google.com/spreadsheets/d/1FleOXQ0_vi21NcYEEKXpZLisTHtACwU6SDgHfqY0MiY/edit?usp=sharing" target="_blank" alt="Data vaksinasi umat">di sini</a> untuk melihat apakah data vaksinasi umat sudah tersimpan di BIDUK. Siapkan Kode KK dan Nomor Anggota yang tertulis pada Kartu Keluarga Katolik.
 2. Bagi umat yang data vaksinasinya belum tersimpan di BIDUK dan telah menerima vaksinasi lengkap, silakan lapor sertifikat vaksinasi (<a href="#lapor-sertifikat-vaksinasi-covid-19" alt="Panduan lapor sertifikat vaksinasi">lihat caranya di sini</a>).
 3. Cek berkala data vaksinasi umat (langkah ke-1) sebelum umat lanjut mendaftarkan diri atau keluarganya misa tatap muka melalui <a href="https://belarasa.id" target="_blank" alt="Web Bela Rasa">Web Bela Rasa</a>.  
-4. Untuk melihat status pendaftaran misa tatap muka yang telah dikirim, umat masuk menu *Tiket Misa Saya*.
-5. TABP akan melakukan verifikasi manual data vaksinasi umat pendaftar yang masuk. Umat dimohon sabar menunggu. Umat pastikan pendaftarannya di *Tiket Misa Saya* berstatus menunggu persetujuan.
-6. Umat dengan data vaksinasi lengkap di BIDUK akan menerima tiket misa tatap muka yang dikirim ke email. 
+[29/08/2021 7:17] ~~Untuk melihat status pendaftaran misa tatap muka yang telah dikirim, umat masuk menu *Tiket Misa Saya*.~~
+[29/08/2021 7:17] ~~TABP akan melakukan verifikasi manual data vaksinasi umat pendaftar yang masuk. Umat dimohon sabar menunggu. Umat pastikan pendaftarannya di *Tiket Misa Saya* berstatus menunggu persetujuan.~~
+[29/08/2021 7:17] ~~Umat dengan data vaksinasi lengkap di BIDUK akan menerima tiket misa tatap muka yang dikirim ke email. ~~
+6. [29/08/2021 7:17] Di Web Bela Rasa, anggota keluarga umat dikelompokkan dalam 2 grup: anggota yang memenuhi persyaratan misa tatap muka (Hadir, PPK, SMK) dan anggota yang tidak memenuhi persyaratan misa tatap muka (hanya SMK). Setelah berhasil mendaftarkan anggota keluarga, umat akan langsung menerima tiket misa tanpa menunggu persetujuan TABP. Baca <a href="#batasan-umur-dan vaksinasi" alt="Batasan Umur dan Vaksinasi">Batasan Umur dan Vaksinasi</a>.
 7. Bawa tiket misa ke gereja untuk dipindai (scan) petugas.
 
 #### Pilihan Hadir, PPK, dan SMK
