@@ -56,9 +56,9 @@
 1. Cek <a href="https://docs.google.com/spreadsheets/d/1FleOXQ0_vi21NcYEEKXpZLisTHtACwU6SDgHfqY0MiY/edit?usp=sharing" target="_blank" alt="Data vaksinasi umat">di sini</a> untuk melihat apakah data vaksinasi umat sudah tersimpan di BIDUK. Siapkan Kode KK dan Nomor Anggota yang tertulis pada Kartu Keluarga Katolik.
 2. Bagi umat yang data vaksinasinya belum tersimpan di BIDUK dan telah menerima vaksinasi lengkap, silakan lapor sertifikat vaksinasi (<a href="#lapor-sertifikat-vaksinasi-covid-19" alt="Panduan lapor sertifikat vaksinasi">lihat caranya di sini</a>).
 3. Cek berkala data vaksinasi umat (langkah ke-1) sebelum umat lanjut mendaftarkan diri atau keluarganya misa tatap muka melalui <a href="https://belarasa.id" target="_blank" alt="Web Bela Rasa">Web Bela Rasa</a>.  
-[29/08/2021 7:17] ~~Untuk melihat status pendaftaran misa tatap muka yang telah dikirim, umat masuk menu *Tiket Misa Saya*.
+[29/08/2021 7:17] <del>Untuk melihat status pendaftaran misa tatap muka yang telah dikirim, umat masuk menu *Tiket Misa Saya*.
 TABP akan melakukan verifikasi manual data vaksinasi umat pendaftar yang masuk. Umat dimohon sabar menunggu. Umat pastikan pendaftarannya di *Tiket Misa Saya* berstatus menunggu persetujuan.
-Umat dengan data vaksinasi lengkap di BIDUK akan menerima tiket misa tatap muka yang dikirim ke email. ~~
+Umat dengan data vaksinasi lengkap di BIDUK akan menerima tiket misa tatap muka yang dikirim ke email.</del>
 6. [29/08/2021 7:17] Di Web Bela Rasa, anggota keluarga umat dikelompokkan dalam 2 grup: anggota yang memenuhi persyaratan misa tatap muka (Hadir, PPK, SMK) dan anggota yang tidak memenuhi persyaratan misa tatap muka (hanya SMK). Setelah berhasil mendaftarkan anggota keluarga, umat akan langsung menerima tiket misa tanpa menunggu persetujuan TABP. Baca <a href="#batasan-umur-dan vaksinasi" alt="Batasan Umur dan Vaksinasi">Batasan Umur dan Vaksinasi</a>.
 7. Bawa tiket misa ke gereja untuk dipindai (scan) petugas.
 
