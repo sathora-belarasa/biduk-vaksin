@@ -21,7 +21,7 @@
 ### Jadwal
 
 * Senin, Rabu, Sabtu pk 6:00 (online)
-* Selasa, Kamis, Jumat pk 6:00 (tatap muka & online)
+* Selasa, Kamis, Jumat pk 6:00 (tatap muka & online), kecuali Jumat Pertama pk 19:00.
 * Sabtu pk 17:00 (tatap muka khusus lansia & online)
 * Minggu pk 8:30 (tatap muka keluarga & online) & 11:00 (tatap muka keluarga)
 * Umat yang berkesempatan hadiri misa tatap muka bergiliran antara Wilayah 1 dan Wilayah 2.
