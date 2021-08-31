@@ -1,5 +1,6 @@
 * <a href="#pengantar" alt="Pengantar">Pengantar</a>
 * <a href="#misa-tatap-muka" alt="Misa Tatap Muka">Misa Tatap Muka</a>
+* <a href="#petugas-misa-tatap-muka" alt="Petugas Misa Tatap Muka">Petugas Misa Tatap Muka</a>
 * <a href="#ppksmk-online" alt="PPK/SMK Online">PPK/SMK Online</a>
 * <a href="#lapor-sertifikat-vaksinasi-covid-19" alt="Lapor Sertifikat Vaksinasi">Lapor Sertifikat Vaksinasi Covid-19</a>
 * <a href="#kumpulan-doa-ppksmk-online" alt="Kumpulan Doa PPK/SMK Online">Kumpulan Doa PPK/SMK Online</a>
@@ -67,6 +68,12 @@ Ketika umat melihat pilihan nama-nama anggota keluarga, terlihat 3 pilihan di sa
 * *PPK* = umat yang menghadiri misa tatap muka merangkap sebagai PPK, yang menjemput SMK waktu komuni.
 * *SMK* = umat yang ingin menyambut SMK di rumah yang diantarkan PPK sewaktu komuni misa tatap muka.
 * Untuk memilih SMK, pilih dulu salah satu anggota keluarga yang hadiri misa di gereja sebagai PPK. Kemudian pilih anggota keluarga sebagai SMK.
+
+## Petugas Misa Tatap Muka
+
+* Setiap petugas dihimbau daftar mandiri di Web Bela Rasa.
+* Setiap petugas wajib punya tiket misa yang sesuai jadwal tugasnya.
+* Setiap petugas wajib isi formulir skrining yang disediakan oleh Seksi Kesehatan Sathora <a href="http://bit.ly/skriningsathora">http://bit.ly/skriningsathora</a> yang dibuka mulai Rabu.
 
 ## PPK/SMK Online
 
