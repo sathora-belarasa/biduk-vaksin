@@ -74,7 +74,7 @@ Ketika umat melihat pilihan nama-nama anggota keluarga, terlihat 3 pilihan di sa
 * Yang dimaksud petugas di sini adalah petugas altar (lektor, misdinar, prodiakon) dan petugas nonaltar (koor, tata tertib-termasuk petugas wilayah, medis).
 * Setiap petugas dihimbau daftar mandiri di Web Bela Rasa.
 * Setiap petugas wajib punya tiket misa yang sesuai jadwal tugasnya.
-* Setiap petugas wajib isi formulir skrining yang disediakan oleh Seksi Kesehatan Sathora <a href="http://bit.ly/skriningsathora">http://bit.ly/skriningsathora</a> yang dibuka mulai Rabu.
+* Setiap petugas wajib isi formulir skrining yang disediakan oleh Seksi Kesehatan Sathora <a href="https://bit.ly/skriningsathora">https://bit.ly/skriningsathora</a> yang dibuka setiap Rabu.
 * Setiap petugas wajib hadir pelatihan yang dikoordinasi Subseksi Tatib Liturgi. Umumnya satu jam sebelum misa atau diatur waktu tertentu yang disampaikan kepada koordinator wilayah.
 
 ## PPK/SMK Online
