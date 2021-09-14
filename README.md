@@ -161,7 +161,7 @@
 
 ## Aplikasi PeduliLindungi
 
-![Sathora Peduli Lindungi](/biduk-vaksin/docs/assets/sathora-peduli-lindungi.jpeg "Peduli Lindungi")
+![Sathora PeduliLindungi](/biduk-vaksin/docs/assets/sathora-peduli-lindungi.jpeg "Sathora PeduliLindungi")
 
 * Gereja Sathora akan menerapkan QR PeduliLindungi sebagai **skrining tambahan** terhadap umat yang hadiri misa di gereja.
 * **Masa uji coba: 18-19 dan 25-26 September 2021**.
