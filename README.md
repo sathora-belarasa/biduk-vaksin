@@ -2,7 +2,7 @@
 * <a href="#lapor-sertifikat-vaksinasi-covid-19" alt="Lapor Sertifikat Vaksinasi">Lapor Sertifikat Vaksinasi Covid-19</a>
 * <a href="#misa-tatap-muka-di-gereja" alt="Misa Tatap Muka di Gereja">Misa Tatap Muka di Gereja</a>
 * <a href="#ppksmk-keluarga" alt="PPK/SMK Keluarga">PPK/SMK Keluarga</a>
-* <a href="#peduli-lindungi" alt="Peduli Lindungi">Peduli Lindungi</a>
+* <a href="#pedulilindungi" alt="PeduliLindungi">PeduliLindungi</a>
 * <a href="#kumpulan-doa-ppksmk-keluarga" alt="Kumpulan Doa PPK/SMK Keluarga">Kumpulan Doa PPK/SMK Keluarga</a>
 * <a href="#narahubung" alt="Narahubung">Narahubung</a>
 
@@ -113,7 +113,7 @@
 * Yang dimaksud petugas di sini adalah petugas altar (lektor, misdinar, prodiakon) dan petugas nonaltar (koor, tata tertib-termasuk petugas wilayah, medis, TGKP/TABP).
 * Setiap petugas dihimbau daftar mandiri di Web Bela Rasa.
 * Setiap petugas wajib punya tiket misa yang sesuai jadwal tugasnya.
-* Setiap petugas wajib isi formulir skrining yang disediakan oleh Seksi Kesehatan Sathora <a href="https://bit.ly/skriningsathora">https://bit.ly/skriningsathora</a> yang dibuka setiap Rabu.
+* Setiap petugas wajib isi formulir skrining yang disediakan oleh Seksi Kesehatan Sathora <a href="https://bit.ly/skriningsathora" target="_blank" alt="Formulir Skrining Petugas Misa">di sini</a> yang dibuka setiap Rabu.
 * Setiap petugas wajib hadir pelatihan yang dikoordinasi Subseksi Tatib Liturgi. Umumnya satu jam sebelum misa atau diatur waktu tertentu yang disampaikan kepada koordinator wilayah.
 
 ## PPK/SMK Keluarga
@@ -156,11 +156,12 @@
 * Dilarang berfoto selfie, wefie selama bersama SMK apalagi mempamerkan piksis berisi SMK.
 > Dosa sakrilegi adalah dosa yang disebabkan karena pencemaran, penodaan, penghinaan, pelecehan terhadap yang sakral seperti Sakramen Mahakudus.
 
-## Peduli Lindungi
+## PeduliLindungi
 
-* Gereja Sathora menerapkan QR Peduli Lindungi di pintu masuk gereja secara bertahap mulai **18 September 2021**.
-* Aplikasi Peduli Lindungi **tidak menggantikan** pendaftaran melalui Web Bela Rasa.
-* Verifikasi vaksin luar negeri <a href="https://vaksinln.dto.kemkes.go.id" blank="_target" alt="Welcome to The Non-Indonesia Vaccination Verification website">di sini</a>
+* Gereja Sathora menerapkan QR PeduliLindungi di pintu masuk gereja secara bertahap mulai **18 September 2021**.
+* Aplikasi PeduliLindungi **tidak menggantikan** pendaftaran melalui Web Bela Rasa.
+* Pelajari lebih lanjut PeduliLindungi <a href="https://www.pedulilindungi.id/" target="_blank" alt="PeduliLindungi">di sini</a>.
+* Verifikasi vaksin luar negeri <a href="https://vaksinln.dto.kemkes.go.id" target="_blank" alt="Welcome to The Non-Indonesia Vaccination Verification website">di sini</a>.
 
 ![Sathora Peduli Lindungi](/biduk-vaksin/docs/assets/sathora-peduli-lindungi.jpeg "Peduli Lindungi")
 
