@@ -49,7 +49,7 @@
     * Satu email untuk satu orang pelapor. Dilarang penggabungan.
     * Judul email ditulis 16 angka NIK pelapor (sama dengan yang tertulis di formulir). Contoh: 1234567890123456.
 
-## Setelah Kirim Formulir
+### Setelah Kirim Formulir
 
 * Umat tunggu maksimum 2x 24 jam sebelum menanyakan hasil laporan vaksinnya.
 * Secara berkala umat dapat cek namanya di Web Bela Rasa, atau cek <a href="https://docs.google.com/spreadsheets/d/1FleOXQ0_vi21NcYEEKXpZLisTHtACwU6SDgHfqY0MiY/edit?usp=sharing" target="_blank" alt="Data vaksinasi umat di BIDUK">di sini</a>. 
