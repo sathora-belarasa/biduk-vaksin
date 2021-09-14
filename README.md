@@ -102,9 +102,9 @@
 3. Bagi umat pemilik akun Web Bela Rasa, silakan masuk dengan menekan tombol Masuk.
     * Pilih jadwal yang diinginkan dengan menekan judul jadwal berwarna merah.
     * Pilih anggota keluarga dengan menggeser saklar di samping kiri namanya. 
-    * *Hadir* = umat yang bersangkutan akan hadiri misa tatap muka di gereja
-    * *PPK* = umat yang menghadiri misa tatap muka merangkap sebagai PPK, yang menjemput SMK waktu komuni.
-    * *SMK* = umat yang ingin menyambut SMK di rumah yang diantarkan PPK sewaktu komuni misa tatap muka.
+    * **Hadir** = umat yang bersangkutan akan hadiri misa tatap muka di gereja
+    * **PPK** = umat yang menghadiri misa tatap muka merangkap sebagai PPK, yang menjemput SMK waktu komuni.
+    * **SMK** = umat yang ingin menyambut SMK di rumah yang diantarkan PPK sewaktu komuni misa tatap muka.
     * Untuk memilih SMK, pilih dulu salah satu anggota keluarga yang hadiri misa di gereja sebagai PPK. Kemudian pilih anggota keluarga sebagai SMK.
     * Pastikan tekan tombol Daftar berwarna hijau paling bawah.
 4. Umat akan langsung menerima tiket misa.
@@ -126,7 +126,7 @@
 ### Jadwal Pelayanan
 
 * Sabtu sore pk 15:00 s.d. 16:00.
-* Minggu pagi pk 6:30 s.d. 7:30, termasuk Prodiakon Antar SMK.
+* Minggu pagi pk 6:30 s.d. 7:30, termasuk **Prodiakon Antar SMK**.
 * Pengurus lingkungan mengantar piksis umat secara kolektif ke gereja (sakristi) s.d. Sabtu pk 11:00.
 * Piksis umat yang tidak dijemput akan dikosongkan dan akan tersedia di sakristi.
 
