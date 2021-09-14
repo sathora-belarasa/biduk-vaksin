@@ -170,7 +170,7 @@
 * Hanya hasil *scan* berwarna hijau yang boleh lanjut *scan* tiket Web Bela Rasa dan cek suhu badan.
 * Ingat untuk lakukan *check out* di aplikasi PeduliLindungi setelah umat meninggalkan area gereja.
 * Pelajari lebih lanjut PeduliLindungi <a href="https://www.pedulilindungi.id/" target="_blank" alt="PeduliLindungi">di sini</a>.
-* Verifikasi vaksin luar negeri <a href="https://vaksinln.dto.kemkes.go.id" target="_blank" alt="Welcome to The Non-Indonesia Vaccination Verification website">di sini</a>. Baca artikel terkait <a href="https://sehatnegeriku.kemkes.go.id/baca/rilis-media/20210914/3338476/alur-verifikasi-vaksinasi-bagi-wni-dan-wna-yang-divaksinasi-di-luar-negeri/" target="_blank" alt="Alur Verifikasi Vaksinasi Bagi WNI dan WNA yang Divaksinasi di Luar Negeri">di sini</a>.
+* Verifikasi vaksin luar negeri <a href="https://vaksinln.dto.kemkes.go.id" target="_blank" alt="Welcome to The Non-Indonesia Vaccination Verification website">di sini</a>. Baca artikel terkaitnya <a href="https://sehatnegeriku.kemkes.go.id/baca/rilis-media/20210914/3338476/alur-verifikasi-vaksinasi-bagi-wni-dan-wna-yang-divaksinasi-di-luar-negeri/" target="_blank" alt="Alur Verifikasi Vaksinasi Bagi WNI dan WNA yang Divaksinasi di Luar Negeri">di sini</a>.
 
 ## Kumpulan Doa PPK/SMK Keluarga
 
