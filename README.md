@@ -165,7 +165,7 @@
 
 * Gereja Sathora akan menerapkan QR PeduliLindungi sebagai **skrining tambahan** terhadap umat yang hadiri misa di gereja.
 * **Masa uji coba: 18-19 dan 25-26 September 2021**.
-* **Resmi diterapkan: 2-3 Oktober 2021**.
+* **Waktu pelaksanaan: 2-3 Oktober 2021**.
 * Aplikasi PeduliLindungi **tidak menggantikan** pendaftaran melalui Web Bela Rasa.
 * Hanya hasil *scan* berwarna hijau yang boleh lanjut *scan* tiket Web Bela Rasa dan cek suhu badan.
 * Ingat untuk lakukan *check out* di aplikasi PeduliLindungi setelah umat meninggalkan area gereja.
