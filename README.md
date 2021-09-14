@@ -161,12 +161,16 @@
 
 ## PeduliLindungi
 
-* Gereja Sathora menerapkan QR PeduliLindungi di pintu masuk gereja secara bertahap mulai **18 September 2021**.
+![Sathora Peduli Lindungi](/biduk-vaksin/docs/assets/sathora-peduli-lindungi.jpeg "Peduli Lindungi")
+
+* Gereja Sathora akan menerapkan QR PeduliLindungi sebagai **skrining tambahan** terhadap umat yang hadiri misa di gereja.
+* **Masa uji coba: 18-19 dan 25-26 September 2021**.
+* **Resmi diterapkan: 2-3 Oktober 2021**.
 * Aplikasi PeduliLindungi **tidak menggantikan** pendaftaran melalui Web Bela Rasa.
+* Hanya hasil *scan* berwarna hijau yang boleh lanjut *scan* tiket Web Bela Rasa dan cek suhu badan.
+* Ingat untuk lakukan *check out* di aplikasi PeduliLindungi setelah umat meninggalkan area gereja.
 * Pelajari lebih lanjut PeduliLindungi <a href="https://www.pedulilindungi.id/" target="_blank" alt="PeduliLindungi">di sini</a>.
 * Verifikasi vaksin luar negeri <a href="https://vaksinln.dto.kemkes.go.id" target="_blank" alt="Welcome to The Non-Indonesia Vaccination Verification website">di sini</a>.
-
-![Sathora Peduli Lindungi](/biduk-vaksin/docs/assets/sathora-peduli-lindungi.jpeg "Peduli Lindungi")
 
 ## Kumpulan Doa PPK/SMK Keluarga
 
