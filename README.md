@@ -87,9 +87,9 @@
 
 ### Batasan Umur dan Vaksinasi
 
-* Misa tatap muka harian: umat berumur 18-59 tahun, sehat, dan telah divaksinasi lengkap 2 dosis.
-* Misa tatap muka lansia: umat berumur 60 tahun ke atas, sehat, beraktivitas tanpa pendamping, dan telah divaksinasi lengkap 2 dosis.
-* Misa tatap muka keluarga: umat berumur 12-59 tahun, sehat, dan telah divaksinasi lengkap 2 dosis; khusus umat berumur 12-17 tahun wajib datang bersama orang tuanya.
+* Misa tatap muka **harian**: umat berumur 18-59 tahun, sehat, dan telah divaksinasi lengkap 2 dosis.
+* Misa tatap muka **lansia**: umat berumur 60 tahun ke atas, sehat, beraktivitas tanpa pendamping, dan telah divaksinasi lengkap 2 dosis.
+* Misa tatap muka **keluarga**: umat berumur 12-59 tahun, sehat, dan telah divaksinasi lengkap 2 dosis; khusus umat berumur 12-17 tahun wajib datang bersama orang tuanya.
 * Bagi umat yang tidak bisa divaksin karena suatu alasan medis, untuk saat ini mereka tidak dapat hadiri misa tatap muka di gereja.
 
 ### Alur Pendaftaran 
