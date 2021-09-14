@@ -2,7 +2,7 @@
 * <a href="#lapor-sertifikat-vaksinasi-covid-19" alt="Lapor Sertifikat Vaksinasi">Lapor Sertifikat Vaksinasi Covid-19</a>
 * <a href="#misa-tatap-muka-di-gereja" alt="Misa Tatap Muka di Gereja">Misa Tatap Muka di Gereja</a>
 * <a href="#ppksmk-keluarga" alt="PPK/SMK Keluarga">PPK/SMK Keluarga</a>
-* <a href="#pedulilindungi" alt="PeduliLindungi">PeduliLindungi</a>
+* <a href="#aplikasi-pedulilindungi" alt="PeduliLindungi">Aplikasi PeduliLindungi</a>
 * <a href="#kumpulan-doa-ppksmk-keluarga" alt="Kumpulan Doa PPK/SMK Keluarga">Kumpulan Doa PPK/SMK Keluarga</a>
 * <a href="#narahubung" alt="Narahubung">Narahubung</a>
 
@@ -159,7 +159,7 @@
 * Dilarang berfoto selfie, wefie selama bersama SMK apalagi mempamerkan piksis berisi SMK.
 > Dosa sakrilegi adalah dosa yang disebabkan karena pencemaran, penodaan, penghinaan, pelecehan terhadap yang sakral seperti Sakramen Mahakudus.
 
-## PeduliLindungi
+## Aplikasi PeduliLindungi
 
 ![Sathora Peduli Lindungi](/biduk-vaksin/docs/assets/sathora-peduli-lindungi.jpeg "Peduli Lindungi")
 
