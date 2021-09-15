@@ -172,6 +172,9 @@
 * Pelajari lebih lanjut PeduliLindungi <a href="https://www.pedulilindungi.id/" target="_blank" alt="PeduliLindungi">di sini</a>.
 * Verifikasi vaksin luar negeri <a href="https://vaksinln.dto.kemkes.go.id" target="_blank" alt="Welcome to The Non-Indonesia Vaccination Verification website">di sini</a>. Baca artikel terkaitnya <a href="https://sehatnegeriku.kemkes.go.id/baca/rilis-media/20210914/3338476/alur-verifikasi-vaksinasi-bagi-wni-dan-wna-yang-divaksinasi-di-luar-negeri/" target="_blank" alt="Alur Verifikasi Vaksinasi Bagi WNI dan WNA yang Divaksinasi di Luar Negeri">di sini</a>.
 
+![Sathora PeduliLindungi Materi-1](/biduk-vaksin/docs/assets/sathora-peduli-lindungi-materi-1.jpeg "Sathora PeduliLindungi Materi-1")
+![Sathora PeduliLindungi Materi-2](/biduk-vaksin/docs/assets/sathora-peduli-lindungi-materi-2.jpeg "Sathora PeduliLindungi Materi-2")
+
 ## Kumpulan Doa PPK/SMK Keluarga
 
 ### Doa sebelum PPK menjemput piksis
