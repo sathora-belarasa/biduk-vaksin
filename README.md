@@ -1,5 +1,6 @@
 * <a href="#pengantar" alt="Pengantar">Pengantar</a>
 * <a href="#lapor-sertifikat-vaksinasi-covid-19" alt="Lapor Sertifikat Vaksinasi">Lapor Sertifikat Vaksinasi Covid-19</a>
+* <a href="#web-bela-rasa" alt="Web Bela Rasa">Web Bela Rasa</a>
 * <a href="#misa-tatap-muka-di-gereja" alt="Misa Tatap Muka di Gereja">Misa Tatap Muka di Gereja</a>
 * <a href="#ppksmk-keluarga" alt="PPK/SMK Keluarga">PPK/SMK Keluarga</a>
 * <a href="#aplikasi-pedulilindungi" alt="PeduliLindungi">Aplikasi PeduliLindungi</a>
@@ -56,6 +57,61 @@
 
 * Umat tunggu maksimum 2x 24 jam sebelum menanyakan hasil laporan vaksinnya.
 * Secara berkala umat dapat cek namanya di Web Bela Rasa, atau cek <a href="https://docs.google.com/spreadsheets/d/1FleOXQ0_vi21NcYEEKXpZLisTHtACwU6SDgHfqY0MiY/edit?usp=sharing" target="_blank" alt="Data vaksinasi umat di BIDUK">di sini</a>. 
+
+## Web Bela Rasa (WBR)
+
+* Sarana yang disediakan KAJ terkait pendaftaran umat atas pelayanan gereja seperti misa tatap muka di gereja, PPK/SMK keluarga atau prodiakon.
+* Web Bela Rasa tersedia <a href="https://belarasa.id" target="_blank" alt="Web Bela Rasa">di sini</a>.
+
+### Bikin Akun
+
+1. Cukup satu anggota keluarga dalam Kode KK sama yang bikin akun.
+2. Persiapan: 
+      * Alamat email yang belum pernah dipakai bikin akun WBR;
+      * Nomor hape yang belum pernah dipakai bikin akun WBR.
+3. Kunjungi situs WBR <a href="https://belarasa.id" target="_blank" alt="Web Bela Rasa">di sini</a>.
+4. Tekan tombol **Bergabung**.
+5. Masukkan alamat email, nomor hape, dan password sebanyak 2 kali.
+6. Lakukan Cek Biduk. Silakan pilih salah satu cara dari 3 yang tersedia:
+      * Cek **NIK**: masukkan NIK umat; 
+      * Cek **KK**: masukkan Kode KK dan tanggal lahir umat;
+      * Cek **Nama, tempat lahir, dan tanggal lahir**: masukkan nama, tempat lahir, dan tanggal lahir umat.
+7. Tekan tombol merah **Cek Biduk**.
+8. Jika data BIDUK umat ditampilkan, lanjutkan dengan tekan tombol hijau **Daftar Sekarang** paling bawah layar.
+      * Jika data BIDUK umat gagal ditemukan, ada kemungkinan keliru masukkan data umat, atau data BIDUK umat keliru. Hubungi kami <a href="#narahubung">di sini</a>.
+9. Email verifikasi akan dikirim ke alamat email. Ikuti petunjuk tertulis pada email.
+10. Pastikan proses verifikasi berhasil. Kemudian, masuk (login) WBR dengan akun yang baru saja aktif.
+
+### Daftar Event
+
+1. Event di sini berarti:
+      * Misa di gereja
+      * Permohonan SMK melalui PPK keluarga
+      * Permohonan SMK melalui prodiakon.
+2. Kunjungi situs WBR <a href="https://belarasa.id" target="_blank" alt="Web Bela Rasa">di sini</a>.
+3. Tekan tombol **Masuk**. 
+      * Berhasil masuk WBR ditandi dengan tampilan nama umat pemilik akun WBR.
+      * Di bawahnya, terlihat kotak-kotak jadwal event yang tersedia dengan judul event berwarna merah.
+4. Pada jadwal event pilihan, tekan judul event berwarna merah.
+      * Perhatikan tulisan keterangan jadwal event di bawah judul jadwal event;
+      * Perhatikan batasan wilayah jadwal event;
+      * Perhatikan kuota umat yang masih tersedia.
+5. Anggota-anggota keluarga lainnya dari pemilik akun WBR ditampilkan dalam 2 bagian:
+      * Yang memenuhi syarat;
+      * Yang tidak memenuhi syarat.
+6. Pilih anggota-anggota keluarga yang memenuhi syarat untuk didaftarkan. Geser saklar di sebelah kanan setiap nama dari merah menjadi hijau.
+      * Khusus event misa: pilih satu PPK dulu, baru bisa pilih SMK buat orang tunggu di rumah.
+      * Khusus event misa: tidak jadi PPK? Cukup hadir saja.
+7. Pilih moda transportasi yang akan digunakan ke gereja.
+8. Centang kotak konfirmasi kondisi kesehatan.
+9. Tekan tombol hijau **Daftarkan**;
+10. Menu **Tiket Misa Saya** menampilkan semua jadwal event yang sedang, pernah didaftarkan. Bisa kirim ulang tiket juga.
+11. Tiket event akan dikirimkan ke alamat email pemilik akun WBR.
+12. Bawa tiket event dan tunjukkan kepada petugas sebelum masuk gereja.
+
+### Batalkan Tiket Event
+
+* Hubungi kami <a href="#narahubung">di sini</a> dengan memberitahukan jadwal event dan pemilik tiket yang hendak dibatalkan.
 
 ## Misa Tatap Muka di Gereja
 
