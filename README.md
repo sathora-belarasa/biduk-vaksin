@@ -58,10 +58,10 @@
 * Umat tunggu maksimum 2x 24 jam sebelum menanyakan hasil laporan vaksinnya.
 * Secara berkala umat dapat cek namanya di Web Bela Rasa, atau cek <a href="https://docs.google.com/spreadsheets/d/1FleOXQ0_vi21NcYEEKXpZLisTHtACwU6SDgHfqY0MiY/edit?usp=sharing" target="_blank" alt="Data vaksinasi umat di BIDUK">di sini</a>. 
 
-## Web Bela Rasa (WBR)
+## Web Bela Rasa
 
 * Sarana yang disediakan KAJ terkait pendaftaran umat atas pelayanan gereja seperti misa tatap muka di gereja, PPK/SMK keluarga atau prodiakon.
-* Web Bela Rasa tersedia <a href="https://belarasa.id" target="_blank" alt="Web Bela Rasa">di sini</a>.
+* Web Bela Rasa (WBR) tersedia <a href="https://belarasa.id" target="_blank" alt="Web Bela Rasa">di sini</a>.
 
 ### Bikin Akun
 
