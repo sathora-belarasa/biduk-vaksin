@@ -129,16 +129,15 @@
 * Infografik jadwal misa September 2021:
 ![Infografik Jadwal Misa September 2021](/biduk-vaksin/docs/assets/misa-2109.jpeg "Infografik Jadwal Misa September 2021")
 
-### Jadwal Pendaftaran Harian
+### Jadwal Daftar Misa Harian Di Gereja
 
-* Pendaftaran misa tatap muka Selasa dibuka H-4 (hari Jumat).
-* Pendaftaran misa tatap muka Kamis, Jumat dibuka H-4/5 (hari Minggu).
+* Pendaftaran misa di gereja Selasa dibuka H-4 (hari Jumat).
+* Pendaftaran misa di gereja Kamis, Jumat dibuka H-4/5 (hari Minggu).
 * Kuota umat, petugas, bruder/suster, dan romo 50 orang.
 
-### Jadwal Pendaftaran Mingguan
+### Jadwal Daftar Misa Mingguan Di Gereja
 
-* Semua misa tatap muka mingguan (misa lansia, misa keluarga) dibuka H-7 (hari Minggu) mulai pk 14:00.
-* Ditutup H-2 (hari Jumat) pk 18:00 atau jika kuota misa habis lebih dulu.
+* Semua misa mingguan (misa lansia, misa keluarga) di gereja dibuka **H-7 (hari Minggu) mulai pk 14:00**.
 * Kuota umat, petugas, bruder/suster, dan romo 200 orang.
 
 ### Batasan Umur dan Vaksinasi
