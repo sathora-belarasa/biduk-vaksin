@@ -126,8 +126,8 @@
 * Wilayah 2: Yosef, Dominikus, Petrus, Katarina, Lukas, Matius, Fransiskus, Klara, Benediktus
 * Jadwal petugas wilayah Oktober & November 2021:
 ![Jadwal Petugas Wilayah](/biduk-vaksin/docs/assets/petugas-wilayah.png "Jadwal Petugas Wilayah")
-* Infografik jadwal misa September 2021:
-![Infografik Jadwal Misa September 2021](/biduk-vaksin/docs/assets/misa-2110.jpeg "Infografik Jadwal Misa Oktober 2021")
+* Infografik jadwal misa Oktober 2021:
+![Infografik Jadwal Misa Oktober 2021](/biduk-vaksin/docs/assets/misa-2110.jpeg "Infografik Jadwal Misa Oktober 2021")
 
 ### Jadwal Daftar Misa Harian Di Gereja
 
