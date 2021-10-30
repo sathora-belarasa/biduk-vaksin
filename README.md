@@ -130,7 +130,7 @@
 * Minggu pk 11:00 misa mingguan tatap muka keluarga + online;
 * Minggu pk 16:00 misa mingguan tatap muka keluarga.
 * ~~Umat yang berkesempatan hadiri misa tatap muka bergiliran antara Wilayah 1 dan Wilayah 2.~~
-* ~~Wilayah 1: Yohanes, Lucia, Elisabeth, Paulus, Stefanus, Ignatius, Timotius, Antonius, Theresia ~~
+* ~~Wilayah 1: Yohanes, Lucia, Elisabeth, Paulus, Stefanus, Ignatius, Timotius, Antonius, Theresia~~
 * ~~Wilayah 2: Yosef, Dominikus, Petrus, Katarina, Lukas, Matius, Fransiskus, Klara, Benediktus~~
 * Jadwal petugas wilayah Oktober & November 2021:
 ![Jadwal Petugas Wilayah](/biduk-vaksin/docs/assets/petugas-wilayah.png "Jadwal Petugas Wilayah")
