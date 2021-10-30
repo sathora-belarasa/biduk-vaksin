@@ -94,7 +94,7 @@
       * Di bawahnya, terlihat kotak-kotak jadwal event yang tersedia dengan judul event berwarna merah.
 4. Pada jadwal event pilihan, tekan judul event berwarna merah.
       * Perhatikan tulisan keterangan jadwal event di bawah judul jadwal event;
-      * Perhatikan batasan wilayah jadwal event;
+      * ~~Perhatikan batasan wilayah jadwal event;~~
       * Perhatikan kuota umat yang masih tersedia.
 5. Anggota-anggota keluarga lainnya dari pemilik akun WBR ditampilkan dalam 2 bagian:
       * Yang memenuhi syarat;
@@ -117,13 +117,13 @@
 
 ### Jadwal
 
-* Senin, Rabu, Sabtu pk 6:00 (online)
-* Selasa, Kamis, Jumat pk 6:00 (tatap muka & online), kecuali Jumat Pertama pk 19:00.
-* Sabtu pk 17:00 (tatap muka khusus lansia & online)
-* Minggu pk 8:30 (tatap muka keluarga & online) & 11:00 (tatap muka keluarga)
-* Umat yang berkesempatan hadiri misa tatap muka bergiliran antara Wilayah 1 dan Wilayah 2.
-* Wilayah 1: Yohanes, Lucia, Elisabeth, Paulus, Stefanus, Ignatius, Timotius, Antonius, Theresia 
-* Wilayah 2: Yosef, Dominikus, Petrus, Katarina, Lukas, Matius, Fransiskus, Klara, Benediktus
+* ~~Senin, Rabu, Sabtu pk 6:00 (online)~~
+* ~~Selasa, Kamis, Jumat pk 6:00 (tatap muka & online), kecuali Jumat Pertama pk 19:00.~~
+* Sabtu pk ~~17:00~~16:00 (tatap muka khusus lansia & online)
+* Minggu pk 8:30 (tatap muka keluarga & online) & 11:00 (tatap muka keluarga & online) & 16:00 (tatap muka keluarga)
+* ~~Umat yang berkesempatan hadiri misa tatap muka bergiliran antara Wilayah 1 dan Wilayah 2.~~
+* ~~Wilayah 1: Yohanes, Lucia, Elisabeth, Paulus, Stefanus, Ignatius, Timotius, Antonius, Theresia ~~
+* ~~Wilayah 2: Yosef, Dominikus, Petrus, Katarina, Lukas, Matius, Fransiskus, Klara, Benediktus~~
 * Jadwal petugas wilayah Oktober & November 2021:
 ![Jadwal Petugas Wilayah](/biduk-vaksin/docs/assets/petugas-wilayah.png "Jadwal Petugas Wilayah")
 * Infografik jadwal misa Oktober 2021:
@@ -180,7 +180,7 @@
 
 ### Jadwal Pelayanan
 
-* Sabtu sore pk 15:00 s.d. 16:00.
+* ~~Sabtu sore pk 15:00 s.d. 16:00.~~
 * Minggu pagi pk 6:30 s.d. 7:30, termasuk **Prodiakon Antar SMK**.
 * Pengurus lingkungan mengantar piksis umat secara kolektif ke gereja (sakristi) s.d. Sabtu pk 11:00.
 * Piksis umat yang tidak dijemput akan dikosongkan dan akan tersedia di sakristi.
