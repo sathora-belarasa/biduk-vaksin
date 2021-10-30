@@ -119,8 +119,16 @@
 
 * ~~Senin, Rabu, Sabtu pk 6:00 (online)~~
 * ~~Selasa, Kamis, Jumat pk 6:00 (tatap muka & online), kecuali Jumat Pertama pk 19:00.~~
-* Sabtu pk ~~17:00~~16:00 (tatap muka khusus lansia & online)
-* Minggu pk 8:30 (tatap muka keluarga & online) & 11:00 (tatap muka keluarga & online) & 16:00 (tatap muka keluarga)
+* Senin pk 6:00 misa harian tatap muka umum + online;
+* Selasa pk 6:00 misa harian tatap muka **lansia** + online;
+* Rabu pk 6:00 misa harian tatap muka umum + online;
+* Kamis pk 6:00 misa harian tatap muka **lansia** + online;
+* Jumat pk 6:00 misa harian tatap muka umum + online;
+* Sabtu pk 6:00 misa harian online;
+* Sabtu pk 16:00 misa mingguan tatap muka **lansia** + online;
+* Minggu pk 8:30 misa mingguan tatap muka keluarga + online;
+* Minggu pk 11:00 misa mingguan tatap muka keluarga + online;
+* Minggu pk 16:00 misa mingguan tatap muka keluarga.
 * ~~Umat yang berkesempatan hadiri misa tatap muka bergiliran antara Wilayah 1 dan Wilayah 2.~~
 * ~~Wilayah 1: Yohanes, Lucia, Elisabeth, Paulus, Stefanus, Ignatius, Timotius, Antonius, Theresia ~~
 * ~~Wilayah 2: Yosef, Dominikus, Petrus, Katarina, Lukas, Matius, Fransiskus, Klara, Benediktus~~
