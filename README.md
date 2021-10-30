@@ -13,7 +13,7 @@
 >
 > Press Release Surat Keputusan Dan Penegasan Pemberian Ijin Memulai Kembali Kegiatan Gerejawi Offline, No. Humas KAJ/ARS-010/2308/2021, 23 Agustus 2021.
 
-* Panduan ini berlaku mulai **September 2021**.
+* Panduan ini berlaku mulai **6 November 2021**.
 * Umat, termasuk petugas, dihimbau mendaftarkan diri secara mandiri. 
 * Bagi yang mengalami kesulitan lapor sertifikat vaksinasi, mendaftar misa tatap muka, mendaftar PPK/SMK Online dapat dibantu anggota keluarga, pengurus lingkungan, OMK lingkungan, atau sesama umat lainnya yang dipercaya.
 * Mohon pengertian umat menyediakan waktu yang cukup dalam mengikuti panduan ini.
