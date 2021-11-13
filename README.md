@@ -133,7 +133,7 @@
 * ~~Umat yang berkesempatan hadiri misa tatap muka bergiliran antara Wilayah 1 dan Wilayah 2.~~
 * ~~Wilayah 1: Yohanes, Lucia, Elisabeth, Paulus, Stefanus, Ignatius, Timotius, Antonius, Theresia~~
 * ~~Wilayah 2: Yosef, Dominikus, Petrus, Katarina, Lukas, Matius, Fransiskus, Klara, Benediktus~~
-* Jadwal petugas wilayah Oktober & November 2021:
+* Jadwal petugas wilayah November & Desember 2021 (belum termasuk 24/12 dan 25/12):
 ![Jadwal Petugas Wilayah](/biduk-vaksin/docs/assets/petugas-wilayah.png "Jadwal Petugas Wilayah")
 * Infografik jadwal misa Oktober 2021:
 ![Infografik Jadwal Misa Oktober 2021](/biduk-vaksin/docs/assets/misa-2110.jpeg "Infografik Jadwal Misa Oktober 2021")
