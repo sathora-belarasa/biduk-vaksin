@@ -13,7 +13,7 @@
 >
 > Press Release Surat Keputusan Dan Penegasan Pemberian Ijin Memulai Kembali Kegiatan Gerejawi Offline, No. Humas KAJ/ARS-010/2308/2021, 23 Agustus 2021.
 
-* Panduan ini berlaku mulai **6 November 2021**.
+* Panduan ini berlaku mulai **20 November 2021**.
 * Umat, termasuk petugas, dihimbau mendaftarkan diri secara mandiri. 
 * Bagi yang mengalami kesulitan lapor sertifikat vaksinasi, mendaftar misa tatap muka, mendaftar PPK/SMK Online dapat dibantu anggota keluarga, pengurus lingkungan, OMK lingkungan, atau sesama umat lainnya yang dipercaya.
 * Mohon pengertian umat menyediakan waktu yang cukup dalam mengikuti panduan ini.
@@ -128,6 +128,7 @@
 * Sabtu pk 16:00 misa mingguan tatap muka **lansia** + online;
 * Minggu pk 8:30 misa mingguan tatap muka keluarga + online;
 * Minggu pk 11:00 misa mingguan tatap muka keluarga + online;
+* Minggu pk 11:00 misa mingguan tatap muka keluarga di Sekolah ND (perdana 21/11/2021);
 * Minggu pk 16:00 misa mingguan tatap muka keluarga.
 * ~~Umat yang berkesempatan hadiri misa tatap muka bergiliran antara Wilayah 1 dan Wilayah 2.~~
 * ~~Wilayah 1: Yohanes, Lucia, Elisabeth, Paulus, Stefanus, Ignatius, Timotius, Antonius, Theresia~~
