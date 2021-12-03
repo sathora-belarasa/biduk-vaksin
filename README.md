@@ -117,43 +117,14 @@
 
 ### Jadwal
 
-* ~~Senin, Rabu, Sabtu pk 6:00 (online)~~
-* ~~Selasa, Kamis, Jumat pk 6:00 (tatap muka & online), kecuali Jumat Pertama pk 19:00.~~
-* Senin pk 6:00 misa harian tatap muka umum + online;
-* Selasa pk 6:00 misa harian tatap muka **lansia** + online;
-* Rabu pk 6:00 misa harian tatap muka umum + online;
-* Kamis pk 6:00 misa harian tatap muka **lansia** + online;
-* Jumat pk 6:00 misa harian tatap muka umum + online;
-* Sabtu pk 6:00 misa harian online;
-* Sabtu pk 16:00 misa mingguan tatap muka **lansia** + online;
-* Minggu pk 8:30 misa mingguan tatap muka keluarga + online;
-* Minggu pk 11:00 misa mingguan tatap muka keluarga + online;
-* Minggu pk 11:00 misa mingguan tatap muka keluarga di Sekolah ND (perdana 21/11/2021);
-* Minggu pk 16:00 misa mingguan tatap muka keluarga.
-* ~~Umat yang berkesempatan hadiri misa tatap muka bergiliran antara Wilayah 1 dan Wilayah 2.~~
-* ~~Wilayah 1: Yohanes, Lucia, Elisabeth, Paulus, Stefanus, Ignatius, Timotius, Antonius, Theresia~~
-* ~~Wilayah 2: Yosef, Dominikus, Petrus, Katarina, Lukas, Matius, Fransiskus, Klara, Benediktus~~
-* Jadwal petugas wilayah November & Desember 2021 (belum termasuk 24/12 dan 25/12):
-![Jadwal Petugas Wilayah](/biduk-vaksin/docs/assets/petugas-wilayah.png "Jadwal Petugas Wilayah")
-* Infografik jadwal misa Oktober 2021:
-![Infografik Jadwal Misa Oktober 2021](/biduk-vaksin/docs/assets/misa-2110.jpeg "Infografik Jadwal Misa Oktober 2021")
-
-### Jadwal Daftar Misa Harian Di Gereja
-
-* Pendaftaran misa di gereja Selasa dibuka H-4 (hari Jumat).
-* Pendaftaran misa di gereja Kamis, Jumat dibuka H-4/5 (hari Minggu).
-* Kuota umat, petugas, bruder/suster, dan romo 50 orang.
-
-### Jadwal Daftar Misa Mingguan Di Gereja
-
-* Semua misa mingguan (misa lansia, misa keluarga) di gereja dibuka **H-7 (hari Minggu) mulai pk 14:00**.
-* Kuota umat, petugas, bruder/suster, dan romo 200 orang.
+* Jadwal dan kuota misa akan disesuaikan surat edaran TGKP terbaru.
+* Jadwal pendaftaran misa harian di Web Bela Rasa setiap Jumat.
+* Jadwal pendaftaran misa mingguan di Web Bela Rasa setiap Minggu H-7 mulai jam 14.
 
 ### Batasan Umur dan Vaksinasi
 
-* Misa tatap muka **harian**: umat berumur 18-59 tahun, sehat, dan telah divaksinasi lengkap 2 dosis.
-* Misa tatap muka **lansia**: umat berumur 60 tahun ke atas, sehat, beraktivitas tanpa pendamping, dan telah divaksinasi lengkap 2 dosis.
-* Misa tatap muka **keluarga**: umat berumur 12-59 tahun, sehat, dan telah divaksinasi lengkap 2 dosis; khusus umat berumur 12-17 tahun wajib datang bersama orang tuanya.
+* Batasan umur misa akan disesuaikan surat edaran TGKP terbaru.
+* Namun, secara umum, hanya umat Sathora yang tercatat pada BIDUK dan telah lapor vaksinasi BIDUK yang dapat mendaftarkan diri misa tatap muka melalui Web Bela Rasa.
 * Bagi umat yang tidak bisa divaksin karena suatu alasan medis, untuk saat ini mereka tidak dapat hadiri misa tatap muka di gereja.
 
 ### Alur Pendaftaran 
@@ -180,7 +151,6 @@
 * Yang dimaksud petugas di sini adalah petugas altar (lektor, misdinar, prodiakon) dan petugas nonaltar (koor, tata tertib-termasuk petugas wilayah, medis, TGKP/TABP).
 * Setiap petugas dihimbau daftar mandiri di Web Bela Rasa.
 * Setiap petugas wajib punya tiket misa yang sesuai jadwal tugasnya.
-* Setiap petugas wajib isi formulir skrining yang disediakan oleh Seksi Kesehatan Sathora <a href="https://bit.ly/skriningsathora" target="_blank" alt="Formulir Skrining Petugas Misa">di sini</a> yang dibuka setiap Rabu.
 * Setiap petugas wajib hadir pelatihan yang dikoordinasi Subseksi Tatib Liturgi. Umumnya satu jam sebelum misa atau diatur waktu tertentu yang disampaikan kepada koordinator wilayah.
 
 ## PPK/SMK Keluarga
@@ -189,8 +159,7 @@
 
 ### Jadwal Pelayanan
 
-* ~~Sabtu sore pk 15:00 s.d. 16:00.~~
-* Minggu pagi pk 6:30 s.d. 7:30, termasuk **Prodiakon Antar SMK**.
+* Minggu pagi pk 6:30 s.d. 7:30.
 * Pengurus lingkungan mengantar piksis umat secara kolektif ke gereja (sakristi) s.d. Sabtu pk 11:00.
 * Piksis umat yang tidak dijemput akan dikosongkan dan akan tersedia di sakristi.
 
