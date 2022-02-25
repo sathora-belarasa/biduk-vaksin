@@ -118,8 +118,8 @@
 ### Jadwal
 
 * Jadwal dan kuota misa akan disesuaikan surat edaran TGKP terbaru.
-* Jadwal pendaftaran misa harian di Web Bela Rasa setiap Jumat.
-* Jadwal pendaftaran misa mingguan di Web Bela Rasa setiap Minggu H-7 mulai jam 14.
+* Jadwal pendaftaran misa Senin s.d. Rabu di Web Bela Rasa setiap Jumat mulai jam 14.
+* Jadwal pendaftaran misa mingguan dan misa Kamis s.d. Sabtu di Web Bela Rasa setiap Minggu H-7 mulai jam 14.
 
 ### Batasan Umur dan Vaksinasi
 
