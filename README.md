@@ -69,8 +69,8 @@
 
 1. Event di sini berarti:
       * Misa di gereja
-      * Permohonan SMK melalui PPK keluarga
-      * Permohonan SMK melalui prodiakon.
+      * ~~Permohonan SMK melalui PPK keluarga~~
+      * ~~Permohonan SMK melalui prodiakon.~~
 2. Kunjungi situs WBR <a href="https://belarasa.id" target="_blank" alt="Web Bela Rasa">di sini</a>.
 3. Tekan tombol **Masuk**. 
       * Berhasil masuk WBR ditandi dengan tampilan nama umat pemilik akun WBR.
@@ -94,7 +94,9 @@
 
 ### Batalkan Tiket Event
 
-* Hubungi kami <a href="#narahubung">di sini</a> dengan memberitahukan jadwal event dan pemilik tiket yang hendak dibatalkan.
+* Masuk Web Bela Rasa.
+* Menu **Tiket Misa Saya** menampilkan semua jadwal event yang sedang, pernah didaftarkan. Bisa batalkan tiket.
+* Umat dihimbau membatalkan tiket H-1 agar umat lain sempat melihat dan memanfaatkan kuota tersedia.
 
 ## Misa Tatap Muka di Gereja
 
@@ -102,7 +104,7 @@
 
 * Jadwal dan kuota misa akan disesuaikan surat edaran TGKP terbaru.
 * Jadwal pendaftaran misa Senin s.d. Rabu di Web Bela Rasa setiap Jumat mulai jam 14.
-* Jadwal pendaftaran misa mingguan dan misa Kamis s.d. Sabtu di Web Bela Rasa setiap Minggu H-7 mulai jam 14.
+* Jadwal pendaftaran misa Kamis s.d. Sabtu & misa Minggu di Web Bela Rasa setiap Minggu H-7 mulai jam 14.
 
 ### Batasan Umur dan Vaksinasi
 
@@ -134,7 +136,7 @@
 * Yang dimaksud petugas di sini adalah petugas altar (lektor, misdinar, prodiakon) dan petugas nonaltar (koor, tata tertib-termasuk petugas wilayah, medis, TGKP/TABP).
 * Setiap petugas dihimbau daftar mandiri di Web Bela Rasa.
 * Setiap petugas wajib punya tiket misa yang sesuai jadwal tugasnya.
-* Setiap petugas wajib hadir pelatihan yang dikoordinasi Subseksi Tatib Liturgi. Umumnya satu jam sebelum misa atau diatur waktu tertentu yang disampaikan kepada koordinator wilayah.
+* ~~Setiap petugas wajib hadir pelatihan yang dikoordinasi Subseksi Tatib Liturgi. Umumnya satu jam sebelum misa atau diatur waktu tertentu yang disampaikan kepada koordinator wilayah.~~
 
 ## PPK/SMK Keluarga
 
