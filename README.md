@@ -23,7 +23,7 @@
 * Umat (setiap individu, setiap anggota keluarga) dihimbau melaporkan data vaksinasi (kedua tanggal vaksin dan foto kartu/sertifikat vaksin) untuk disimpan di BIDUK.  
 * Data vaksinasi ini akan digunakan sebagai syarat mendaftar misa di gereja.
 * Umat tanpa data vaksinasi di BIDUK akan melihat namanya tidak memenuhi syarat ikut misa di gereja.
-* Umat laporkan data vaksin kepada pengurus lingkungan.
+* Umat laporkan data vaksin kepada pengurus lingkungan sejak 19/03/2022 bersamaan dengan dimulainya Sensus Umat Sathora.
 * Bagimana umat tahu data vaksinasinya berhasil disimpan di BIDUK? 
     * Umat kunjungi <a href="https://docs.google.com/spreadsheets/d/1FleOXQ0_vi21NcYEEKXpZLisTHtACwU6SDgHfqY0MiY/edit?usp=sharing" target="_blank" alt="Data vaksinasi umat di BIDUK">di sini</a>. 
     * Di Web Bela Rasa, nama umat yang masuk batasan umur ditampilkan di bagian memenuhi syarat misa di gereja.
