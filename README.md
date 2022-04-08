@@ -24,6 +24,7 @@
 * Umat (setiap individu, setiap anggota keluarga) dihimbau melaporkan data vaksinasi (kedua tanggal vaksin dan foto kartu/sertifikat vaksin) untuk disimpan di BIDUK.  
 * Data vaksinasi ini akan digunakan sebagai syarat mendaftar misa di gereja.
 * Umat tanpa data vaksinasi di BIDUK akan melihat namanya tidak memenuhi syarat ikut misa di gereja.
+* Umat laporkan data vaksin kepada pengurus lingkungan.
 * Bagimana umat tahu data vaksinasinya berhasil disimpan di BIDUK? 
     * Umat kunjungi <a href="https://docs.google.com/spreadsheets/d/1FleOXQ0_vi21NcYEEKXpZLisTHtACwU6SDgHfqY0MiY/edit?usp=sharing" target="_blank" alt="Data vaksinasi umat di BIDUK">di sini</a>. 
     * Di Web Bela Rasa, nama umat yang masuk batasan umur ditampilkan di bagian memenuhi syarat misa di gereja.
@@ -40,23 +41,6 @@
     * Tanggal vaksinasi pertama
     * Tanggal vaksinasi kedua
     * Foto sertifikat vaksinasi kedua.
-
-### Lapor Data Vaksin
-
-* Bagi umat pelapor yang punya akun **Gmail**:
-    * Isi Formulir Model A yang tersedia <a href="https://tinyurl.com/sathorabidukvaksina" target="_blank" alt="Formulir Model A">di sini</a>.
-    * Umat *upload* (unggah) foto kartu vaksin atau sertifikat vaksin kedua. Ukuran foto maksimum berukuran 1 MB.
-    * Ada pilihan buat umat dikirimi bukti pengiriman formulir.
-* Bagi umat pelapor lainnya:
-    * Isi Formulir Model B yang tersedia <a href="https://tinyurl.com/sathorabidukvaksinb" target="_blank" alt="Formulir Model B">di sini</a>.
-    * Umat kirimkan via email foto kartu vaksin atau sertifikat vaksin kedua ke [admin.belarasa+lapor@sathora.or.id](mailto:admin.belarasa+lapor@sathora.or.id).
-    * Satu email untuk satu orang pelapor. Dilarang penggabungan.
-    * Judul email ditulis 16 angka NIK pelapor (sama dengan yang tertulis di formulir). Contoh: 1234567890123456.
-
-### Selesai Kirim Formulir
-
-* Umat tunggu maksimum 2x 24 jam sebelum menanyakan hasil laporan vaksinnya.
-* Secara berkala umat dapat cek namanya di Web Bela Rasa, atau cek <a href="https://docs.google.com/spreadsheets/d/1FleOXQ0_vi21NcYEEKXpZLisTHtACwU6SDgHfqY0MiY/edit?usp=sharing" target="_blank" alt="Data vaksinasi umat di BIDUK">di sini</a>. 
 
 ## Web Bela Rasa
 
