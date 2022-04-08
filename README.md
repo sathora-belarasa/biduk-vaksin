@@ -2,7 +2,6 @@
 * <a href="#lapor-sertifikat-vaksinasi-covid-19" alt="Lapor Sertifikat Vaksinasi">Lapor Sertifikat Vaksinasi Covid-19</a>
 * <a href="#web-bela-rasa" alt="Web Bela Rasa">Web Bela Rasa</a>
 * <a href="#misa-tatap-muka-di-gereja" alt="Misa Tatap Muka di Gereja">Misa Tatap Muka di Gereja</a>
-* <a href="#ppksmk-keluarga" alt="PPK/SMK Keluarga">PPK/SMK Keluarga</a>
 * <a href="#aplikasi-pedulilindungi" alt="PeduliLindungi">Aplikasi PeduliLindungi</a>
 * <a href="#kumpulan-doa-ppksmk-keluarga" alt="Kumpulan Doa PPK/SMK Keluarga">Kumpulan Doa PPK/SMK Keluarga</a>
 * <a href="#narahubung" alt="Narahubung">Narahubung</a>
@@ -141,24 +140,7 @@
 
 > Kerinduan dan keinginan menerima Sakramen Mahakudus harus muncul dari keluarga atau umat.
 
-### Jadwal Pelayanan
-
-* Minggu pagi pk 6:30 s.d. 7:30.
-* Pengurus lingkungan mengantar piksis umat secara kolektif ke gereja (sakristi) s.d. Sabtu pk 11:00.
-* Piksis umat yang tidak dijemput akan dikosongkan dan akan tersedia di sakristi.
-
-### Jadwal Pendaftaran
-
-* Mulai H-7 (hari Minggu) mulai pk 14:00.
-
-### Alur Pendaftaran
-
-1. Umat mendaftarkan diri atau keluarganya pelayanan PPK/SMK Keluarga melalui Web Bela Rasa <a href="https://belarasa.id" target="_blank" alt="Web Bela Rasa">di sini</a>.
-2. Umat akan langsung menerima tiket melalui email setelah pendaftarannya berhasil.
-3. Umat antar piksis kepada pengurus lingkungan untuk diantarkan secara kolektif ke gereja. 
-4. Umat jemput piksis sesuai jadwal yang dipilih dengan membawa tiket.
-5. Pastikan umat tidak bawa pulang piksis yang bukan miliknya.
-6. Khusus umat pendaftar pelayanan *Prodiakon Antar SMK*: silakan tunggu di rumah dengan berpakaian pantas. Piksis akan diantarkan prodiakon sebelum misa tatap muka dimulai.
+* Saat ini umat yang rindu menerima SMK dilayani oleh: (1) prodiakon atau (2) PPK offline pada misa tatap muka. 
 
 ### Panduan PPK dan Piksis
 
